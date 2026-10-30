@@ -1,0 +1,24 @@
+[project]
+name = "llm-challenge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Stephany Wakeanda", email = "143544049+stephyyi@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "anthropic>=2.3.0",
+    "jupyter>=1.1.1",
+    "minsearch>=0.2.0",
+    "openai>=3.40.0",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+llm-challenge = "llm_challenge:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
