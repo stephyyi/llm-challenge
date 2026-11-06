@@ -1,6 +1,6 @@
 import requests
 
-from minserach import Index
+from minsearch import Index
 
 
 def load_faq_data():
