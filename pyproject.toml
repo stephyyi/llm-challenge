@@ -14,7 +14,9 @@ dependencies = [
     "openai>=3.40.0",
     "python-dotenv>=1.2.4",
     "requests>=2.34.2",
+    "sentence-transformers>=6.2.0",
     "sqlitesearch>=0.3.0",
+    "torch>=2.15.0",
 ]
 
 [project.scripts]
@@ -23,3 +25,12 @@ llm-challenge = "llm_challenge:main"
 [build-system]
 requires = ["uv_build>=0.13.6,<0.14.0"]
 build-backend = "uv_build"
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
