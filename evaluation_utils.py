@@ -1,12 +1,17 @@
 import time
 
+import anthropic
 from tqdm.auto import tqdm
 from rag_helper import RAGBase
 
 
+DEFAULT_MODEL = "claude-haiku-5-5"
+
+
 def calc_price(usage):
-    input_price_per_million = 0.75
-    output_price_per_million = 4.50
+    # Claude Haiku 5.5 prices (USD per 1M tokens) for prompts up to 100K tokens
+    input_price_per_million = 0.10
+    output_price_per_million = 0.50
 
     input_cost = (usage.input_tokens / 1_000_000) * input_price_per_million
     output_cost = (usage.output_tokens / 1_000_000) * output_price_per_million
@@ -29,19 +34,16 @@ def calc_total_price(usages):
     return total_cost
 
 
-def llm_structured(client, instructions, user_prompt, output_type, model="gpt-5.4-mini"):
-    messages = [
-        {"role": "developer", "content": instructions},
-        {"role": "user", "content": user_prompt}
-    ]
-
-    response = client.responses.parse(
+def llm_structured(client, instructions, user_prompt, output_type, model=DEFAULT_MODEL):
+    response = client.messages.parse(
         model=model,
-        input=messages,
-        text_format=output_type
+        max_tokens=4096,
+        system=instructions,
+        messages=[{"role": "user", "content": user_prompt}],
+        output_format=output_type,
     )
 
-    return response.output_parsed, response.usage
+    return response.parsed_output, response.usage
 
 
 def llm_structured_retry(
@@ -49,7 +51,7 @@ def llm_structured_retry(
     instructions,
     user_prompt,
     output_type,
-    model="gpt-5.4-mini",
+    model=DEFAULT_MODEL,
     max_retries=3,
 ):
     for attempt in range(max_retries):
@@ -61,6 +63,9 @@ def llm_structured_retry(
                 output_type,
                 model=model,
             )
+        except (anthropic.AuthenticationError, anthropic.NotFoundError, anthropic.BadRequestError):
+            # Wrong key, model or request: retrying won't help
+            raise
         except Exception:
             if attempt == max_retries - 1:
                 raise
@@ -90,20 +95,17 @@ class RAGWithUsage(RAGBase):
         )
 
     def llm(self, prompt):
-        input_messages = [
-            {"role": "developer", "content": self.instructions},
-            {"role": "user", "content": prompt}
-        ]
-
-        response = self.llm_client.responses.create(
+        response = self.llm_client.messages.create(
             model=self.model,
-            input=input_messages
+            max_tokens=4096,
+            system=self.instructions,
+            messages=[{"role": "user", "content": prompt}],
         )
 
         self.last_usage = response.usage
         self.usages.append(response.usage)
 
-        return response.output_text
+        return "".join(block.text for block in response.content if block.type == "text")
 
     def total_cost(self):
         return calc_total_price(self.usages)
