@@ -1,0 +1,805 @@
+question,course,document
+"I just found out about this course, is it too late to start learning with you guys?",llm-zoomcamp,74eb249bbf
+"Hey, is it still possible to enroll in the LLM zoomcamp if I only discovered it now?",llm-zoomcamp,74eb249bbf
+"If I join the course late, will I still be able to get a certificate at the end?",llm-zoomcamp,74eb249bbf
+"Do I need to get my project in before the submission window closes to get the certificate, even if I started late?",llm-zoomcamp,74eb249bbf
+Is there still time to sign up for llm zoomcamp or has enrollment already closed?,llm-zoomcamp,74eb249bbf
+"I registered for LLM Zoomcamp a while ago but still haven't gotten a confirmation email. When should I expect it, or is something wrong?",llm-zoomcamp,977bf7786c
+Do I need to wait for a confirmation email from LLM Zoomcamp before I can start the course and submit homework?,llm-zoomcamp,977bf7786c
+"I filled out the LLM Zoomcamp registration form. Is it actually required, or can I just start learning and submitting homework without it?",llm-zoomcamp,977bf7786c
+"Is there a registered participants list for LLM Zoomcamp that homework submissions get checked against, or does registration not matter for that?",llm-zoomcamp,977bf7786c
+What is the point of registering for LLM Zoomcamp if it doesn't get checked and I can still take part before the start date?,llm-zoomcamp,977bf7786c
+Where can I find the zoom link for the office hours or live workshop sessions in llm-zoomcamp?,llm-zoomcamp,489dd1c9d9
+Do students get the zoom link for the llm zoomcamp office hours? I can't find it anywhere.,llm-zoomcamp,489dd1c9d9
+"If I'm not an instructor, how do I join the live workshop sessions? Is there a YouTube stream?",llm-zoomcamp,489dd1c9d9
+"Where do I submit questions during the live office hours, is it Slido?",llm-zoomcamp,489dd1c9d9
+Can I just ask my question in the chat during the office hours or will it get missed?,llm-zoomcamp,489dd1c9d9
+"I just signed up for LLM Zoomcamp and I'm not sure where to begin. Which docs and GitHub repo should I look at first, and can I start whenever I want?",llm-zoomcamp,04919992b3
+"What's the typical weekly workflow for the LLM Zoomcamp? Do I watch videos first, then do the code, then homework?",llm-zoomcamp,04919992b3
+"Where can I see the deadlines for the LLM Zoomcamp homework, and how do I submit my answers?",llm-zoomcamp,04919992b3
+"Is the homework in LLM Zoomcamp the same as the lesson material, or does it use a different dataset or task?",llm-zoomcamp,04919992b3
+I'm joining the LLM Zoomcamp late and want to keep up. What steps should I follow each week to stay on track?,llm-zoomcamp,04919992b3
+How do I find out which entry is mine on the leaderboard if I can't see myself there?,llm-zoomcamp,c2903069a0
+"Where can I check the display name I'm using on the course leaderboard, and can I change it to my Slack or GitHub username?",llm-zoomcamp,c2903069a0
+"I'm not on the llm-zoomcamp leaderboard, how do I know which random name I was assigned when I signed up?",llm-zoomcamp,c2903069a0
+"If I change my name in the Edit Course Profile settings, will that name be what shows up on my certificate?",llm-zoomcamp,c2903069a0
+Is it possible to stay anonymous on the leaderboard while still getting my real name on the certificate in the LLM Zoomcamp?,llm-zoomcamp,c2903069a0
+Can I just follow the llm zoomcamp on my own schedule and still get a certificate at the end?,llm-zoomcamp,69d122f12e
+"Is it possible to get the certificate if I only study self-paced, or do I have to join a live cohort?",llm-zoomcamp,69d122f12e
+Do I need to do the homework to get the certificate for llm zoomcamp?,llm-zoomcamp,69d122f12e
+What exactly is required to earn the certificate? Is a capstone project plus peer reviews enough?,llm-zoomcamp,69d122f12e
+"If I go through the course self-paced, when do I need to submit my project and do the peer reviews?",llm-zoomcamp,69d122f12e
+"I missed the first homework in the llm-zoomcamp course, is it still possible to get the certificate at the end?",llm-zoomcamp,9f689c185f
+"Do I need to submit every homework to get the certificate for llm-zoomcamp, or can I skip some of them?",llm-zoomcamp,9f689c185f
+"If I skipped homework 1, can I still pass the course and receive a certificate? What do I actually need to finish?",llm-zoomcamp,9f689c185f
+"Is homework mandatory in llm-zoomcamp, or can I just do the capstone project and still get the certificate?",llm-zoomcamp,9f689c185f
+"Missed the first llm zoomcamp homework, does that mean I can't get a certificate? Do the points from homework matter for anything besides the leaderboard?",llm-zoomcamp,9f689c185f
+"Why does the homework content keep changing? I keep seeing updates to the homework questions, what does it mean?",llm-zoomcamp,96286b4be4
+"What does [DRAFT] in the homework title mean, and when is the homework actually ready to work on?",llm-zoomcamp,96286b4be4
+Is it safe to start working on the homework before it's finished? Can the questions still change after I begin?,llm-zoomcamp,96286b4be4
+How do I know when the homework is final and won't change anymore in the llm-zoomcamp course?,llm-zoomcamp,96286b4be4
+"If I work on the homework while it still has [DRAFT] in the title, will my answers still be valid after the final version is released?",llm-zoomcamp,96286b4be4
+When is the next LLM Zoomcamp cohort starting? I'm trying to plan my schedule and want to know if I can join a live run soon.,llm-zoomcamp,bd31146b0e
+"Does LLM Zoomcamp only run once a year, or are there multiple cohorts throughout the year?",llm-zoomcamp,bd31146b0e
+I missed the sign-up window for the current LLM Zoomcamp. Do you know roughly when the next live cohort will be held?,llm-zoomcamp,bd31146b0e
+"If the next live LLM Zoomcamp cohort isn't until later, can I still go through the course materials on my own in the meantime?",llm-zoomcamp,bd31146b0e
+"Is the next LLM Zoomcamp cohort expected around May-June 2027, and what should I do until then if I want to start learning?",llm-zoomcamp,bd31146b0e
+"Hey, are there any lectures or videos for the LLM Zoomcamp course? If so, where can I find them?",llm-zoomcamp,31456f4b5f
+Where do I find the video lessons for llm-zoomcamp? Is there a GitHub repo or a YouTube playlist I should look at?,llm-zoomcamp,31456f4b5f
+"I'm trying to find the course videos for LLM Zoomcamp, does anyone know where they're hosted?",llm-zoomcamp,31456f4b5f
+"Is there a recorded lecture for each lesson in the LLM Zoomcamp, and where can I watch them?",llm-zoomcamp,31456f4b5f
+"Which should I follow for the LLM Zoomcamp videos, the GitHub repo or the YouTube playlist, since I want the most up-to-date content?",llm-zoomcamp,31456f4b5f
+Where can I find the LLM Zoomcamp syllabus and deadlines? I keep losing track of what's due when.,llm-zoomcamp,20c5a1347e
+Is there a place where I can check my homework and progress for the LLM Zoomcamp?,llm-zoomcamp,20c5a1347e
+Where is the course management platform for the LLM Zoomcamp 2026 cohort?,llm-zoomcamp,20c5a1347e
+"Does LLM Zoomcamp have its own tracking system, or is it the same as the other DataTalks.Club zoomcamps?",llm-zoomcamp,20c5a1347e
+How can I see the current cohort structure for LLM Zoomcamp and track how far along I am?,llm-zoomcamp,20c5a1347e
+"Are there live sessions or office hours for each module in the LLM Zoomcamp, or is it all pre-recorded?",llm-zoomcamp,d65e05bd7a
+Do you guys hold live sessions for every module of llm-zoomcamp? Where do I find the materials if I miss one?,llm-zoomcamp,d65e05bd7a
+"If I get stuck in LLM Zoomcamp, is there any live help or office hours available besides Slack?",llm-zoomcamp,d65e05bd7a
+"Is there a paid option with Zoom office hours for the LLM zoomcamp, or is the course content always free?",llm-zoomcamp,d65e05bd7a
+"How do I know when a live session is happening in the LLM Zoomcamp, since they aren't held for every module?",llm-zoomcamp,d65e05bd7a
+Does posting my progress on Bluesky count towards the learning in public credits in llm-zoomcamp?,llm-zoomcamp,dbf5369006
+"I only post on Bluesky, not LinkedIn or Twitter. Will those posts still count for the learning in public credits?",llm-zoomcamp,dbf5369006
+Are Bluesky posts accepted as proof for the learning in public credits in the LLM zoomcamp?,llm-zoomcamp,dbf5369006
+I've been sharing my course progress on Bluesky instead of Twitter. Is that okay for getting the learning in public credits?,llm-zoomcamp,dbf5369006
+"Do I have to use a specific platform for learning in public credits, or is Bluesky fine too?",llm-zoomcamp,dbf5369006
+"Hey, is there a Telegram channel for the LLM Zoomcamp where I can get course announcements?",llm-zoomcamp,054f3fd58f
+Where can I find the LLM Zoomcamp Telegram channel? I want to keep up with announcements.,llm-zoomcamp,054f3fd58f
+Is there an official Telegram group for LLM Zoomcamp? I'm trying to find it.,llm-zoomcamp,054f3fd58f
+"Which channel should I use for LLM Zoomcamp announcements, is there a Telegram one?",llm-zoomcamp,054f3fd58f
+"Where do I ask technical questions in LLM Zoomcamp, and is the Telegram channel meant for that too?",llm-zoomcamp,054f3fd58f
+Why does the number of documents in the FAQ dataset I load not match the count shown in the video?,llm-zoomcamp,e2d595f23c
+"My RAG results look different from the ones in the lecture, is my implementation wrong?",llm-zoomcamp,e2d595f23c
+Why do my RAG answers differ from the course videos even though I followed the same steps?,llm-zoomcamp,e2d595f23c
+How can I reproduce the exact same FAQ document count and RAG results shown in the videos?,llm-zoomcamp,e2d595f23c
+Why does the FAQ dataset change over time and how does that affect my retrieved context and final answers?,llm-zoomcamp,e2d595f23c
+"The homework submission form is still open even though the deadline has passed, so can I still submit my answers?",llm-zoomcamp,a9353fadfe
+I missed the listed homework deadline but the submission form hasn't closed yet. Is it still okay to submit my homework now?,llm-zoomcamp,a9353fadfe
+Does the homework deadline really matter if the submission form is still accepting entries? Can I turn in my answers late?,llm-zoomcamp,a9353fadfe
+"If the due date on the course page has passed but the form is still open, am I still allowed to send in my homework?",llm-zoomcamp,a9353fadfe
+"Quick question: once the homework deadline is over, does the form staying open mean I can still submit? Or will it be rejected?",llm-zoomcamp,a9353fadfe
+"Can I still submit homework after the deadline has passed, or is there any way to get a deadline extension for it?",llm-zoomcamp,cdc3b285e5
+"If I miss a homework deadline, will that affect my certificate in llm-zoomcamp?",llm-zoomcamp,cdc3b285e5
+"Do I need to complete every homework to get the certificate, or is only the capstone project required?",llm-zoomcamp,cdc3b285e5
+Is there a way to submit homework late if the submission form is still open after the listed deadline?,llm-zoomcamp,cdc3b285e5
+Will missing some homework assignments hurt my position on the leaderboard or stop me from appearing on it?,llm-zoomcamp,cdc3b285e5
+Will the name I enter in the certificate field be shown publicly online or shared with any third parties?,llm-zoomcamp,651ba06b34
+"If I put my real name in the certificate field, will it show up on the public leaderboard or get shared with other companies?",llm-zoomcamp,651ba06b34
+How is the name on my certificate different from the name shown on the public leaderboard in the LLM Zoomcamp?,llm-zoomcamp,651ba06b34
+"Where do I set my public nickname and my certificate name, and can I keep my real name off the leaderboard?",llm-zoomcamp,651ba06b34
+"Is the leaderboard name anonymous by default, and does it have anything to do with the name printed on my certificate?",llm-zoomcamp,651ba06b34
+"Hey, does the llm-zoomcamp certificate show how many hours the course took?",llm-zoomcamp,5cc511f85b
+I'm wondering if the certificate you get at the end of the LLM zoomcamp lists the total course hours anywhere?,llm-zoomcamp,5cc511f85b
+Will my llm zoomcamp certificate include the number of hours I spent on the course?,llm-zoomcamp,5cc511f85b
+Quick question: is there any total hours count printed on the course certificate for llm-zoomcamp?,llm-zoomcamp,5cc511f85b
+Does the certificate for the LLM course mention how many hours of content it covered or how long it took?,llm-zoomcamp,5cc511f85b
+Why aren't we using LangChain in this course? Is it because it's bad or something?,llm-zoomcamp,b7cdde6b25
+"I keep seeing LangChain everywhere for building LLM apps, so why does the course skip it and build everything manually instead?",llm-zoomcamp,b7cdde6b25
+"Will we use LangChain at any point in the llm-zoomcamp, or are we only doing the core pieces from scratch?",llm-zoomcamp,b7cdde6b25
+"Is there a reason the course builds prompting, retrieval, indexing and evaluation by hand rather than just using a framework like LangChain to handle them?",llm-zoomcamp,b7cdde6b25
+"Do I need to know LangChain to do well in Module 1 RAG, or can I skip it entirely?",llm-zoomcamp,b7cdde6b25
+"I'm getting an 'OpenAI API Error: Insufficient credits' when I run the responses.create command in Module 1, what does that mean?",llm-zoomcamp,f5df151c59
+Why does my OpenAI responses.create call in the RAG module fail with an insufficient credits error?,llm-zoomcamp,f5df151c59
+"Got an insufficient credits error from OpenAI when calling responses.create for llm-zoomcamp, is my API key broken or is it a billing issue?",llm-zoomcamp,f5df151c59
+"Running responses.create in the RAG section throws 'Insufficient credits', how do I fix this so I can continue the homework?",llm-zoomcamp,f5df151c59
+Does the OpenAI responses.create error about insufficient credits mean I need to add money to my OpenAI account for the course?,llm-zoomcamp,f5df151c59
+"I'm getting a RateLimitError with error code 429 when calling the OpenAI API in the RAG module, and the message says I exceeded my current quota. Is there a free tier I can use for the homework, or do I need to add money to my account?",llm-zoomcamp,152af39a53
+Why does my OpenAI API call fail with 'insufficient_quota' even though I already have a ChatGPT subscription? How do I fix this so my code in the course runs?,llm-zoomcamp,152af39a53
+I keep seeing 'Error code: 429 - insufficient_quota' when running my Python script for the RAG project. What exactly do I need to do on the OpenAI platform to get it working again?,llm-zoomcamp,152af39a53
+"My responses.create call with model gpt-4o gives a 429 quota error. Do I need to change the model name in my code, and how much credit do I need to add to my OpenAI account?",llm-zoomcamp,152af39a53
+I added credits to my OpenAI account but I'm still getting the 429 RateLimitError in my notebook. Do I need to generate a new API key or update something locally for it to work?,llm-zoomcamp,152af39a53
+How much money do I need to spend on the OpenAI API for this course?,llm-zoomcamp,554d0eb78b
+Do I have to pay a lot to use the OpenAI API in the LLM zoomcamp?,llm-zoomcamp,554d0eb78b
+What's the minimum amount I need to add to my OpenAI account to follow the course?,llm-zoomcamp,554d0eb78b
+Is using the OpenAI API for the homework going to be expensive?,llm-zoomcamp,554d0eb78b
+"Roughly how much does OpenAI API usage cost during the RAG module, and do I need to top up with $5 first?",llm-zoomcamp,554d0eb78b
+Do I need to subscribe to and pay for the OpenAI API to take this LLM Zoomcamp course?,llm-zoomcamp,85384a18e5
+Is it mandatory to pay for an OpenAI API subscription to finish the course homeworks?,llm-zoomcamp,85384a18e5
+"Can I complete the llm-zoomcamp homeworks without paying for the OpenAI API, or is a paid plan required?",llm-zoomcamp,85384a18e5
+Are there free or cheap alternatives to the OpenAI API that I can use for the course?,llm-zoomcamp,85384a18e5
+Where can I find a list of OpenAI API alternatives for the LLM Zoomcamp course?,llm-zoomcamp,85384a18e5
+Why does the course use uv for package and project management instead of the more traditional Python tools like pip and virtualenv? Is there a real benefit to switching?,llm-zoomcamp,f81dea8f7e
+"Do I have to use uv for the LLM Zoomcamp, or can I stick with pip and virtualenv if I'm more comfortable with them?",llm-zoomcamp,f81dea8f7e
+"What does uv replace exactly? I keep seeing pip, virtualenv, poetry, and pyenv mentioned, so do I need to learn all of those separately or does uv cover them?",llm-zoomcamp,f81dea8f7e
+"Is uv actually faster than pip for installing dependencies, and why does that matter for this course?",llm-zoomcamp,f81dea8f7e
+"Where can I find the official documentation for uv, and does it support reproducible lockfiles like poetry does?",llm-zoomcamp,f81dea8f7e
+Why does my OPENAI_API_KEY show as not found when I run the Jupyter notebook for the LLM zoomcamp?,llm-zoomcamp,86d99bbf21
+"I put my OpenAI key in a .env file but the notebook still can't find OPENAI_API_KEY, what am I missing?",llm-zoomcamp,86d99bbf21
+Do I need to install something like python-dotenv to get the OpenAI API key working in Jupyter for module 1?,llm-zoomcamp,86d99bbf21
+How do I load the .env file in the notebook before creating the OpenAI client?,llm-zoomcamp,86d99bbf21
+Is there something specific about the variable name in .env that could cause OPENAI_API_KEY to not be found?,llm-zoomcamp,86d99bbf21
+How do I store my API keys in a .env file for the LLM Zoomcamp project so they don't get pushed to GitHub?,llm-zoomcamp,233dabe430
+What's the proper way to load API keys from a .env file in Python using python-dotenv?,llm-zoomcamp,233dabe430
+"Do I need to install python-dotenv separately to read API keys from a .env file, and how do I do it?",llm-zoomcamp,233dabe430
+How do I add .env to .gitignore so my OpenAI and Groq keys are never committed to the repo?,llm-zoomcamp,233dabe430
+"Once I've created the .env file with my keys, how do I actually access them with os.getenv in my Python code?",llm-zoomcamp,233dabe430
+"Do I have to use the same model or provider that the homework recommends, or can I switch to something else?",llm-zoomcamp,ee43413718
+"Can I use a different LLM provider like Gemini, Groq, or a local model for the RAG homework instead of the suggested one?",llm-zoomcamp,ee43413718
+Is there a way to do the LLM Zoomcamp homework without paying for an API service?,llm-zoomcamp,ee43413718
+"If I switch to a different provider than the one in the homework, will my code need to be changed, and what should I watch out for?",llm-zoomcamp,ee43413718
+Where can I find a list of alternatives to the OpenAI API that I could use for the course homework?,llm-zoomcamp,ee43413718
+How do I start using Google Gemini models in the Module 1 notebook through the OpenAI-compatible endpoint? I want to know what I need to set up before running the code.,llm-zoomcamp,0ae5c221b9
+"Where do I put my Gemini API key so the Module 1 notebook can load it, and what variable name should I use?",llm-zoomcamp,0ae5c221b9
+What base URL should the OpenAI client point to when I want to call Gemini models through the OpenAI-compatible endpoint?,llm-zoomcamp,0ae5c221b9
+"Do I need to change the Module 1 notebook code if I use Gemini instead of OpenAI, since the course examples use the Responses format and the Gemini endpoint uses chat completions?",llm-zoomcamp,0ae5c221b9
+"How do I pass the Gemini model name into the llm helper function, and does the response parsing change when I use the chat completions style?",llm-zoomcamp,0ae5c221b9
+How do I get structured output as Pydantic objects from Gemini using the OpenAI-compatible endpoint if responses.parse doesn't work for me?,llm-zoomcamp,341f71f28c
+Is there a way to use chat.completions.parse with Gemini through the OpenAI SDK to get back Pydantic models instead of raw JSON?,llm-zoomcamp,341f71f28c
+What do I need to set up the OpenAI client with base_url pointing to Google's generativelanguage endpoint so I can call Gemini for parsed output?,llm-zoomcamp,341f71f28c
+How do I define a nested Pydantic model like Questions with a list of Question objects and pass it as response_format to the parse call?,llm-zoomcamp,341f71f28c
+"Why do I need to install pydantic with uv add pydantic, and how do I access the parsed result like result.questions from the response?",llm-zoomcamp,341f71f28c
+How do I install Ollama on my machine? I'm not sure which file to download for Windows vs Mac.,llm-zoomcamp,1d0b969028
+"After installing Ollama, what command do I run to start the llama3 model?",llm-zoomcamp,1d0b969028
+How can I check that the Ollama local server is actually running on my computer?,llm-zoomcamp,1d0b969028
+Is there a Python client for Ollama and how do I install it with pip?,llm-zoomcamp,1d0b969028
+How do I call llama3 from Python using Ollama's chat function and print the response?,llm-zoomcamp,1d0b969028
+"I keep getting a Connection refused error when I prompt Ollama in the Module 1 RAG homework, what should I do to fix it?",llm-zoomcamp,c6fc2d4d11
+Why does my Ollama RAG code throw a connection refused error even though my code looks right?,llm-zoomcamp,c6fc2d4d11
+How do I restart the Ollama server in my notebook if I get a connection refused error during the homework?,llm-zoomcamp,c6fc2d4d11
+Do I need to run the ollama serve cell again if I stopped and restarted my notebook cell?,llm-zoomcamp,c6fc2d4d11
+What command can I use to start ollama serve in the background from a notebook so my RAG homework works?,llm-zoomcamp,c6fc2d4d11
+Why does the token count I get from tiktoken.encode() not match the token count OpenAI reports in the API response?,llm-zoomcamp,bf0403d21b
+"I counted 320 tokens on my prompt using tiktoken but OpenAI says it used 327, what am I missing?",llm-zoomcamp,bf0403d21b
+Where do the extra tokens come from when I call chat.completions.create? My tiktoken count is lower than the usage number from OpenAI.,llm-zoomcamp,bf0403d21b
+"Does the chat message format add hidden tokens to the prompt, and is that why OpenAI's token count is higher than my tiktoken count?",llm-zoomcamp,bf0403d21b
+"Do newlines, whitespace or special Unicode characters in my message make the OpenAI token count go up compared to what tiktoken shows?",llm-zoomcamp,bf0403d21b
+How can I set my API keys once so I don't have to re-export them every time I open a new terminal for the LLM Zoomcamp project?,llm-zoomcamp,8b2f5e9d04
+What is dirdotenv and how do I use it to automatically load my OPENAI_API_KEY when I cd into the project folder?,llm-zoomcamp,8b2f5e9d04
+"Is direnv okay to use instead of dirdotenv for loading API keys in the course, and what do I need to do to set it up?",llm-zoomcamp,8b2f5e9d04
+"Where should I store my API keys so they don't get pushed to GitHub, and should I add .env to .gitignore?",llm-zoomcamp,8b2f5e9d04
+"How do I load environment variables from a .env file in a Python script, and what about API keys in GitHub Codespaces?",llm-zoomcamp,8b2f5e9d04
+How should I choose field weights for minsearch? Just guessing numbers feels wrong.,llm-zoomcamp,87d4ea4e08
+Is there a systematic way to figure out field weights for minsearch or another search engine?,llm-zoomcamp,87d4ea4e08
+"Is trial and error ok for tuning field weights, or is there a better way to test different settings?",llm-zoomcamp,87d4ea4e08
+"Which metrics should I use to compare different field weight settings, like hit rate or MRR?",llm-zoomcamp,87d4ea4e08
+"Do I need a ground truth dataset to evaluate field weights, or can I just eyeball the search results?",llm-zoomcamp,87d4ea4e08
+How should I prepare my documents before using them in a RAG system? Is there a specific format I need to convert them into?,llm-zoomcamp,649c280e6d
+"What kind of cleaning should I do on the raw text before chunking it for RAG, like removing headers, footers, or HTML junk?",llm-zoomcamp,649c280e6d
+"Do I need to keep metadata like titles, dates, or page numbers when preparing documents for RAG, or can I just dump the plain text?",llm-zoomcamp,649c280e6d
+How should I chunk my documents for RAG so that related context stays together and retrieval works well?,llm-zoomcamp,649c280e6d
+"Is JSON required for storing the prepared documents in RAG, or is there a better format to use? And does cleaning the data really matter that much for retrieval accuracy?",llm-zoomcamp,649c280e6d
+"I'm getting a 'Failed to hardlink files' warning when running uv in GitHub Codespaces, is this an actual error that will break my installation?",llm-zoomcamp,acf8fa5356
+Why does uv say it failed to hardlink files in Codespaces and do I need to fix it before continuing with the course?,llm-zoomcamp,acf8fa5356
+"How do I get rid of the 'Failed to hardlink files' warning from uv in Codespaces, is there a way to make the fix permanent?",llm-zoomcamp,acf8fa5356
+"Does the uv hardlink warning in Codespaces mean the package didn't get installed properly, or does uv fall back to something else?",llm-zoomcamp,acf8fa5356
+" uv keeps printing a hardlink warning in my Codespace, what does UV_LINK_MODE=copy do and how do I set it so I don't see it again?",llm-zoomcamp,acf8fa5356
+I'm getting an error saying dotenv is not recognized when I run my LLM Zoomcamp code. What package do I need to install for this?,llm-zoomcamp,0bed1f48da
+My script fails with a 'No module named dotenv' style error in the RAG module. Which library should I install to fix it?,llm-zoomcamp,0bed1f48da
+"How do I install dotenv for the llm-zoomcamp Module 1 RAG homework, and do I use uv or pip for it?",llm-zoomcamp,0bed1f48da
+"After installing with uv, how do I actually load environment variables from dotenv in my Python file?",llm-zoomcamp,0bed1f48da
+Where can I find the official documentation for the python-dotenv package I need for the course?,llm-zoomcamp,0bed1f48da
+Is it possible to run the llm-zoomcamp course on my own computer instead of using GitHub Codespaces?,llm-zoomcamp,aa310de435
+"I don't really want to use Codespaces for the RAG module, can I just set everything up locally on my machine?",llm-zoomcamp,aa310de435
+What do I need to install if I want to do the Module 1 RAG homework locally rather than in Codespaces?,llm-zoomcamp,aa310de435
+"Codespaces is what the course recommends, but is running locally with Python, uv, Jupyter and Docker also okay for the llm-zoomcamp?",llm-zoomcamp,aa310de435
+"If I follow the course on my own laptop instead of Codespaces, is there anything I should do to keep my setup reproducible?",llm-zoomcamp,aa310de435
+"If I don't commit my code in Codespaces, is it still saved somewhere?",llm-zoomcamp,610ccb23c0
+Where does my unsaved code go when I work in GitHub Codespaces without committing it?,llm-zoomcamp,610ccb23c0
+I forgot to commit my changes in Codespaces for the LLM zoomcamp. Will I lose them if the codespace stops?,llm-zoomcamp,610ccb23c0
+"Does Codespaces keep my files if I never commit them, or should I commit regularly anyway?",llm-zoomcamp,610ccb23c0
+"What's the risk of not committing my work in Codespaces, and how long does it stay saved there?",llm-zoomcamp,610ccb23c0
+"I'm getting 'ResponseError: model requires more system memory' when running Ollama on WSL2, but my computer has way more RAM than what it says. How do I give WSL2 more memory?",llm-zoomcamp,f3dd94f323
+Why does WSL2 only show a certain amount of memory even though my Windows machine has more RAM? Is there a way to increase the limit for the LLM model in the RAG module?,llm-zoomcamp,f3dd94f323
+How do I create a .wslconfig file to allocate more RAM to WSL2 so my model stops failing with a not enough system memory error?,llm-zoomcamp,f3dd94f323
+"After I change the memory setting for WSL2, how do I restart it and check that the new amount is actually being used?",llm-zoomcamp,f3dd94f323
+"Where exactly should the .wslconfig file go on Windows, and what should go inside it to set memory to 8GB for WSL2?",llm-zoomcamp,f3dd94f323
+"My GitHub Codespace is stuck on ""Finishing up"" and won't reconnect after I stopped it. What can I do to get back into it?",llm-zoomcamp,830f3d2018
+Why did my whole setup disappear from my Codespace after a rebuild? Do I have to reinstall everything from scratch?,llm-zoomcamp,830f3d2018
+"Is it safe to leave my work only in the Codespace, or do I need to commit and push my changes to avoid losing them?",llm-zoomcamp,830f3d2018
+"If Codespaces keeps giving me connection problems, is there a way to run the llm-zoomcamp course on my own machine instead?",llm-zoomcamp,830f3d2018
+"Codespace won't connect no matter what I try, should I just delete it and make a new one, or is there a better fix first?",llm-zoomcamp,830f3d2018
+"Do I really have to use OpenAI for the course, or can I use a different LLM provider instead?",llm-zoomcamp,c6ff9083c0
+What if OpenAI isn't available or is blocked in my region? Can I switch to another provider for the Module 1 RAG homework and project?,llm-zoomcamp,c6ff9083c0
+"Can I use a hosted provider like Groq, OpenRouter, or Gemini instead of OpenAI, and what do I need to change in the course code?",llm-zoomcamp,c6ff9083c0
+Is it possible to run an LLM locally with Ollama or vLLM for this course so I don't need a paid API key?,llm-zoomcamp,c6ff9083c0
+"If I rent a GPU machine to serve a model, how do I point the course code at it, and do I need to worry about costs afterwards?",llm-zoomcamp,c6ff9083c0
+My notebook keeps crashing with 429 errors from OpenAI when it loops over all the documents. How can I avoid hitting the rate limit during the course?,llm-zoomcamp,8e21752415
+"Does the openai Python client retry automatically when I get rate limited, or do I need to write my own retry logic?",llm-zoomcamp,8e21752415
+"Does running my thread pool with lots of workers make the rate limit errors worse, and what number of workers is safe?",llm-zoomcamp,8e21752415
+Every time I re-run my notebook it calls the API again for stuff I already embedded. Should I cache the embeddings and LLM responses to disk so I don't burn through my limits?,llm-zoomcamp,8e21752415
+Is there a cheaper or free model I can use for the homework so I stop running into OpenAI's per-minute and per-day request limits?,llm-zoomcamp,8e21752415
+"How can I inspect the full response from an LLM API so I can find tool calls, token usage, and other fields if I'm not sure what the structure looks like?",llm-zoomcamp,4a2c64c6e7
+"If the API response is a Pydantic model, how do I convert it to a dictionary to view it?",llm-zoomcamp,4a2c64c6e7
+How do I display an LLM API response as an expandable JSON tree in a Jupyter notebook?,llm-zoomcamp,4a2c64c6e7
+How can I pretty-print the LLM response as formatted JSON when running a script in the terminal instead of a notebook?,llm-zoomcamp,4a2c64c6e7
+"Why do different LLM APIs like Responses API, Chat Completions, or provider SDKs use different field names, and how do I update the course code to read token usage and generated text from my provider's response?",llm-zoomcamp,4a2c64c6e7
+I'm working on the llm-zoomcamp course and uv keeps using the wrong virtual environment even though I'm in a different project folder. How do I fix this so it uses the correct .venv?,llm-zoomcamp,91675fa206
+Why does uv keep pointing to my old virtual environment when I have multiple projects each with their own .venv? What's the right way to switch between them?,llm-zoomcamp,91675fa206
+"When I run uv for my Module 1 RAG homework, it seems to use a previous project's virtual environment. What steps should I take to make it use the .venv in the current folder?",llm-zoomcamp,91675fa206
+How do I check that my shell and uv are actually using the .venv inside my current project directory and not some other environment?,llm-zoomcamp,91675fa206
+"I already have a .venv in my project but uv still uses another one. Do I need to deactivate first, and how do I create and activate the right environment in this folder?",llm-zoomcamp,91675fa206
+I installed a package in GitHub Codespaces but my Jupyter notebook still can't import it. Why does this happen and how do I fix it?,llm-zoomcamp,74486f4c87
+Why does my notebook say ModuleNotFoundError even though the package shows up when I run pip or uv list in the Codespaces terminal?,llm-zoomcamp,74486f4c87
+"How can I check which Python interpreter my Jupyter kernel is actually using in Codespaces, so I know if it's the right environment?",llm-zoomcamp,74486f4c87
+"Once I've picked the right kernel in my notebook, do I need to restart it before the import will work?",llm-zoomcamp,74486f4c87
+My Codespaces project has a .venv folder but the notebook doesn't seem to use it. How do I switch the notebook to that environment?,llm-zoomcamp,74486f4c87
+"Why am I getting a GroqError with model_decommissioned when my Groq model suddenly stops working in the RAG module, and how do I fix it?",llm-zoomcamp,b391cb9b0b
+"My Groq code worked before but now I get a model_decommissioned error, which model should I switch to and how do I update the code?",llm-zoomcamp,b391cb9b0b
+"What does the reasoning effort setting look like for the new Groq model, since reasoning_effort none gives me a validation error with gpt-oss-120b?",llm-zoomcamp,b391cb9b0b
+How do I migrate my Groq calls from chat completions with reasoning_effort to the Responses API using the OpenAI client with base_url set to Groq?,llm-zoomcamp,b391cb9b0b
+Where can I check which Groq models are still supported or deprecated so I don't run into this error again?,llm-zoomcamp,b391cb9b0b
+"Are tools and functions different things in agentic RAG, or are the terms basically the same?",llm-zoomcamp,c296ea5a21
+What can a tool or function actually do for the model in agentic RAG? Like searching documents or calling an API?,llm-zoomcamp,c296ea5a21
+How does agentic RAG differ from basic RAG when it comes to when retrieval happens?,llm-zoomcamp,c296ea5a21
+"In agentic RAG, who decides when a tool gets called, the model or my code?",llm-zoomcamp,c296ea5a21
+Do I need to worry about the naming difference between tools and functions for this course?,llm-zoomcamp,c296ea5a21
+Are there any free models that support tool use? I'd like to experiment with function calling in the course without paying for API access.,llm-zoomcamp,0d74a3616f
+"Which Groq models support tool use, and can I use them for free while developing?",llm-zoomcamp,0d74a3616f
+"Do providers other than OpenAI like Mistral, Gemini, or Ollama also support tool or function calling in this course?",llm-zoomcamp,0d74a3616f
+"If I switch from OpenAI to another provider for the agentic RAG module, will my code need changes because tool calling works differently?",llm-zoomcamp,0d74a3616f
+Where can I find the documentation on how tool use works with Groq models?,llm-zoomcamp,0d74a3616f
+"I'm getting ""AttributeError: 'str' object has no attribute 'output'"" in the agents module when I use the OpenAI Responses API with a non-OpenAI model. What's causing this?",llm-zoomcamp,9e7b3f0c25
+"Why does response.output fail with my Mistral/Groq/Gemini model? The Responses API code from the lecture works fine with OpenAI but not with other providers, can I fix this?",llm-zoomcamp,9e7b3f0c25
+"Do I have to switch to chat.completions for non-OpenAI models in the agentic RAG homework, or is there another way to get the response text?",llm-zoomcamp,9e7b3f0c25
+"When using chat.completions with a non-OpenAI provider, how do I get the answer text from the response, and do I need to change the tools schema too?",llm-zoomcamp,9e7b3f0c25
+Is it okay to use the older chat.completions API instead of the Responses API for my module 1 project if my provider doesn't support Responses well?,llm-zoomcamp,9e7b3f0c25
+"I'm using Azure OpenAI and keep getting 'Missing required parameter: tools[0].function' with error code 400, what's causing this?",llm-zoomcamp,b9c7c6bb34
+"Why do I still get the 400 error 'Missing required parameter tools[0].function' when calling Azure OpenAI with tools, and how do I fix the tool definition?",llm-zoomcamp,b9c7c6bb34
+What should the get_weather_tool JSON look like so Azure OpenAI stops throwing the missing required parameter tools[0].function error?,llm-zoomcamp,b9c7c6bb34
+"My get_weather_tool seems fine but Azure OpenAI still returns invalid_request_error missing_required_parameter for tools[0].function, what structure does it need?",llm-zoomcamp,b9c7c6bb34
+How do I correctly format the tool definition for Azure OpenAI function calling so I don't get the 'tools[0].function' missing parameter 400 error in the agentic RAG module?,llm-zoomcamp,b9c7c6bb34
+"I'm getting a 404 error when using toyaikit with Groq instead of OpenAI, what am I doing wrong and how do I fix it?",llm-zoomcamp,0224d980b3
+Can I use toyaikit with Anthropic models instead of OpenAI? How do I set that up?,llm-zoomcamp,0224d980b3
+"Why does OpenAIResponsesRunner give a 404 with Groq, and which runner should I use for non-OpenAI providers in toyaikit?",llm-zoomcamp,0224d980b3
+"How do I point toyaikit's chat completions client at Groq's base URL, and what model name should I use with it?",llm-zoomcamp,0224d980b3
+"What is the difference between runner.loop() and runner.run() in toyaikit, and is that UnknownModelWarning about pricing something I need to worry about when using Groq?",llm-zoomcamp,0224d980b3
+How do I adapt the Module 1 Lesson 14 agent loop to work with a non-OpenAI provider that uses Chat Completions tool calling?,llm-zoomcamp,8ecd1e8262
+Can I use the handwritten agent loop from Lesson 14 with Gemini through Google's OpenAI-compatible endpoint?,llm-zoomcamp,8ecd1e8262
+What changes do I need to make to the Lesson 14 agent loop when switching from the Responses API to chat.completions.create?,llm-zoomcamp,8ecd1e8262
+Where do I get the tool calls from when using Chat Completions instead of response.output in the agent loop?,llm-zoomcamp,8ecd1e8262
+How should I handle the tool results and assistant message in the loop so it works with Chat Completions tool calling?,llm-zoomcamp,8ecd1e8262
+Where can I find the homework questions for Module 1 of the LLM Zoomcamp? I can't seem to locate them anywhere.,llm-zoomcamp,53f15299b6
+Are the Module 1 homework links for the LLM Zoomcamp 2026 cohort on GitHub or on the course platform?,llm-zoomcamp,53f15299b6
+"Where do I get the homework instructions for Module 1 in the llm-zoomcamp course, and is the course platform enough for submitting it?",llm-zoomcamp,53f15299b6
+"For the 2026 LLM Zoomcamp Module 1 homework, which GitHub links should I use to get the instructions?",llm-zoomcamp,53f15299b6
+"Do I need to check the GitHub repo for the Module 1 homework, or is the course management platform sufficient to see the questions and deadlines?",llm-zoomcamp,53f15299b6
+"I'm working on Module 1 homework for LLM zoomcamp and my search query keeps returning an empty list after I apply filters on Q3, what could be causing this?",llm-zoomcamp,83da208a64
+"My filtered query in the homework (HW Q3) returns nothing, even though the query seems right. Is there a known issue with how the data is set up?",llm-zoomcamp,83da208a64
+Why does my search return an empty list once I add filters in Module 1 homework question 3 of llm-zoomcamp?,llm-zoomcamp,83da208a64
+"For the Module 1 homework in llm-zoomcamp, my filtered results come back empty on Q3. Do I need to set something up before indexing the data?",llm-zoomcamp,83da208a64
+I keep getting an empty list after filtering my query for HW Q3 in the LLM zoomcamp course. How should I fix the indexing so my filters work?,llm-zoomcamp,83da208a64
+"I'm getting an APIStatusError with code 402 when I call client.responses.create() with OpenRouter for the Module 1 homework, why does this happen and how do I fix it?",llm-zoomcamp,cfb07a27d5
+"Why does my OpenRouter key get rejected with a 402 error even though I have free credits, and does setting max_output_tokens fix it?",llm-zoomcamp,cfb07a27d5
+"What value should I set for max_output_tokens in responses.create() to avoid the 402 error from OpenRouter in the Module 1 homework, and where do I add it in rag_helper.py?",llm-zoomcamp,cfb07a27d5
+"Is the 402 error from OpenRouter the same as the 429 insufficient quota error from OpenAI, and what should I check if it still fails after adding max_output_tokens?",llm-zoomcamp,cfb07a27d5
+How do I pass max_output_tokens to the OpenAIClient in ToyAIKit for Module 1 homework Q6 so OpenRouter stops returning a 402 error?,llm-zoomcamp,cfb07a27d5
+"In the Module 1 homework, am I supposed to fit the search index on the split chunks or on the original documents?",llm-zoomcamp,b4300adeb1
+I'm confused about the RAG part of Module 1 homework. What does it mean to point RAG at the chunk index?,llm-zoomcamp,b4300adeb1
+Why does it matter whether I build the index from the chunks instead of the full documents for the homework?,llm-zoomcamp,b4300adeb1
+"For the Module 1 homework, does the RAG pipeline put only the retrieved chunks into the prompt or the whole documents?",llm-zoomcamp,b4300adeb1
+"If I already split my records into chunks for the homework, do I still need to pass the original documents to index.fit?",llm-zoomcamp,b4300adeb1
+"Do my homework answers have to match the multiple choice options exactly, or is a close number good enough for the LLM Zoomcamp Module 1 homework?",llm-zoomcamp,5e4ca64cb5
+"My numeric answer for the Module 1 homework is a bit different from all the options. What should I do, could it be a rounding issue or a dataset version problem?",llm-zoomcamp,5e4ca64cb5
+"If my answer is slightly off from one of the choices in the Module 1 homework, should I just pick the closest option or is that wrong?",llm-zoomcamp,5e4ca64cb5
+"What could cause small differences in my Module 1 homework numbers, like different filtering, dataset versions, or model provider behavior?",llm-zoomcamp,5e4ca64cb5
+"If my answer is far from every option in the LLM Zoomcamp Module 1 homework, what should I re-check before submitting?",llm-zoomcamp,5e4ca64cb5
+What should I do if the Module 1 homework questions feel unclear to me?,llm-zoomcamp,7d3a2e3505
+"Where can I find the homework instructions for Module 1 in the 2026 cohort, since the course platform page seems vague?",llm-zoomcamp,7d3a2e3505
+"The homework is different from the lesson examples, so how should I approach it if I'm not sure what to do?",llm-zoomcamp,7d3a2e3505
+"If I'm still confused after reading the Module 1 homework instructions, how should I ask for help in Slack?",llm-zoomcamp,7d3a2e3505
+"Should I send a screenshot of my code or error when asking about the homework, or is there a better way to share it?",llm-zoomcamp,7d3a2e3505
+How do I get the token counts for the Module 1 homework if I'm using a different LLM provider than OpenAI?,llm-zoomcamp,fe8fed31e6
+Where do I find the input and output token counts in the response object when I use a non-OpenAI provider for the Module 1 homework?,llm-zoomcamp,fe8fed31e6
+Can I just use tiktoken with cl100k_base to count tokens for the Module 1 homework if my provider is Gemini or Mistral?,llm-zoomcamp,fe8fed31e6
+What should I do for the Module 1 homework if my provider doesn't return any token usage info in its response?,llm-zoomcamp,fe8fed31e6
+Which token count should I pick for the multiple-choice homework questions if my provider's count doesn't exactly match the options?,llm-zoomcamp,fe8fed31e6
+"My homework submission keeps getting rejected and the error says my repo URL returns a non-200 status like 500, what does that mean and how do I fix it?",llm-zoomcamp,bcdb8740ce
+Why does the homework checker say my repo URL is returning a 500 or 404 even though the link works for me?,llm-zoomcamp,bcdb8740ce
+"Is it a problem if my GitHub repo is private when I submit the homework, and the checker says the URL isn't reachable?",llm-zoomcamp,bcdb8740ce
+Does the trailing .git at the end of my repo link cause the homework submission to get rejected?,llm-zoomcamp,bcdb8740ce
+How can I test whether my homework repo URL will pass the submission checker before I submit it?,llm-zoomcamp,bcdb8740ce
+"Hey, I'm pretty new to this module and keep seeing the term embeddings everywhere. What exactly are embeddings in the context of this course?",llm-zoomcamp,69430a79a8
+"So how do embeddings actually work? Like, what's the point of converting non-numerical data into numbers if they still need to keep their meaning?",llm-zoomcamp,69430a79a8
+"If similar text or items get turned into similar numbers by an embedding algorithm, how does that let us measure semantic similarity with regular math?",llm-zoomcamp,69430a79a8
+I keep running into the phrases vector space model and dimensionality reduction when reading about embeddings. How are those related to embeddings and what should I know about them?,llm-zoomcamp,69430a79a8
+"Is there a simple way to think about embeddings for Module 2 on vector search, or do I need to understand the full math behind them right away?",llm-zoomcamp,69430a79a8
+"I keep getting a warning that the multi-qa-mpnet-base-dot-v1 model was made on sentence transformers v3.0.0, how do I get rid of it?",llm-zoomcamp,aa3f597424
+Why does this sentence transformers version warning show up when I load the multi-qa-mpnet model in the vector search module?,llm-zoomcamp,aa3f597424
+What version of sentence-transformers do I need to install to stop that multi-qa-mpnet warning?,llm-zoomcamp,aa3f597424
+Is there a pip command I can run to upgrade sentence-transformers so the model warning goes away?,llm-zoomcamp,aa3f597424
+"Do I have to suppress this warning in Module 2, or can I just upgrade sentence-transformers instead?",llm-zoomcamp,aa3f597424
+"Why did the lesson use .dot(...) directly to compute cosine similarity, but the homework stresses normalizing the vectors first? Isn't cosine similarity supposed to already handle that?",llm-zoomcamp,92cd22cada
+"In the Module 2 vector search lesson we just took the dot product of the embeddings to get similarity, but in the homework normalization seems really important. What's the difference between the two cases and why does it matter?",llm-zoomcamp,92cd22cada
+"I'm confused about when I actually need to normalize embeddings before doing a dot product for cosine similarity. The lesson skipped it but the homework says it's needed, so why the difference?",llm-zoomcamp,92cd22cada
+"Why does the lesson compute cosine similarity with .dot(...) without any normalization step, while the homework insists on normalizing? Does it depend on which embedding model you use?",llm-zoomcamp,92cd22cada
+"For the homework, do I need to normalize my TF-IDF + SVD vectors before using the dot product, when the lesson just used .dot(...) on the embeddings directly? What exactly goes wrong if I skip it?",llm-zoomcamp,92cd22cada
+"I'm working through Module 2 on vector search and I'm not sure what to embed when building the index. Should I embed just the question, just the answer, or both the question and the answer together?",llm-zoomcamp,5c4a8d2e60
+"When setting up vector search for my FAQ data in llm-zoomcamp, is there a recommended approach for what text to put through the embedding model? Like, is embedding the answer alone enough, or should I concatenate the question with it?",llm-zoomcamp,5c4a8d2e60
+What's the trade-off between embedding only the answer text versus embedding only the question in a vector search setup? I want to know which one tends to work better for matching user queries.,llm-zoomcamp,5c4a8d2e60
+"If I concatenate question + "" "" + text before embedding, is it worth the extra cost compared to embedding just one field? I'm trying to decide for my llm-zoomcamp project.",llm-zoomcamp,5c4a8d2e60
+"How do I figure out which embedding option is actually best for my dataset in vector search? Is there a metric I should compare, like hit rate or MRR, and does the course provide any example comparison I can look at?",llm-zoomcamp,5c4a8d2e60
+"I keep seeing cosine similarity in the Module 2 vector search material, but what does it actually measure between two vectors?",llm-zoomcamp,db78580409
+"Is cosine similarity only useful for comparing text documents, or can I use it with other kinds of vectors too?",llm-zoomcamp,db78580409
+"What do the values mean? If cosine similarity is 0, does that mean the two vectors are unrelated, and what does -1 indicate?",llm-zoomcamp,db78580409
+Why do people usually use word counts or TF-IDF values as the vectors when they compute cosine similarity between documents?,llm-zoomcamp,db78580409
+"What range of values can cosine similarity return, and can it actually be negative?",llm-zoomcamp,db78580409
+Why does cosine similarity turn into a matrix multiplication between the embeddings and the query vector? I thought magnitudes mattered for it.,llm-zoomcamp,95feb4e75b
+"If I normalize all my embeddings and the query to unit length, is cosine similarity just the dot product between the query and each document?",llm-zoomcamp,95feb4e75b
+"How come cosine similarity ignores vector magnitude, and why does that make it possible to score all documents at once?",llm-zoomcamp,95feb4e75b
+"Once all vectors are unit length, why does their magnitude stop mattering for the similarity score?",llm-zoomcamp,95feb4e75b
+Why is computing the dot product with a matrix multiply a more efficient way to find similar documents than calculating cosine similarity one by one?,llm-zoomcamp,95feb4e75b
+"Do I need to create a brand new GitHub repository for Module 2 of the LLM Zoomcamp, or can I just spin up a new codespace from my existing repo?",llm-zoomcamp,1e829a8c6f
+"Why should I use a separate codespace for Module 2: Vector Search instead of continuing in the one I used for Module 1, and how do I clean it up afterwards?",llm-zoomcamp,1e829a8c6f
+"If I delete the codespace I used for Module 2 later, will my code be lost, and do I need to commit my work to my repository first?",llm-zoomcamp,1e829a8c6f
+"Can I just create a new codespace for the vector search module in the LLM Zoomcamp, and what is a codespace anyway?",llm-zoomcamp,1e829a8c6f
+Is it a good idea to keep the vector-search dependencies in their own codespace so I can stop or delete it without messing up my Module 1 environment?,llm-zoomcamp,1e829a8c6f
+Why does my download.py get stuck at 0% when it's downloading model.onnx from HuggingFace?,llm-zoomcamp,29b69fbe0b
+"My download.py hangs at 0% on the model.onnx file, what could be causing this?",llm-zoomcamp,29b69fbe0b
+Is there a way to get past download.py freezing at 0% while fetching model.onnx from HuggingFace?,llm-zoomcamp,29b69fbe0b
+"If download.py stays at 0% for model.onnx, can I just download the file manually instead?",llm-zoomcamp,29b69fbe0b
+Where should I save model.onnx manually so download.py skips the download after it hangs at 0%?,llm-zoomcamp,29b69fbe0b
+"Why do the matrix version and the for-loop version of vector search give slightly different scores in Module 2, and is my code wrong?",llm-zoomcamp,e889793af9
+"I ran X.dot(v_query) and the for-loop version for vector search and np.allclose returns False, why is that and how do I fix it?",llm-zoomcamp,e889793af9
+Is it normal that the matrix multiplication and the for loop give different numbers in the vector search lesson? What causes the tiny difference?,llm-zoomcamp,e889793af9
+"When comparing scores from the numpy dot product and the manual for-loop in llm-zoomcamp vector search, what tolerance should I use with np.allclose?",llm-zoomcamp,e889793af9
+"Why does floating point rounding make the dot product results differ between BLAS X.dot and a plain Python loop, even though the math is the same?",llm-zoomcamp,e889793af9
+Why do I keep getting IndexError: list index out of range when I try to access the best chunk in Module 2 vector search? What am I doing wrong?,llm-zoomcamp,1a7b27c4df
+My code throws IndexError list index out of range when I pull out the best matching chunk from my search results. How do I fix this in llm-zoomcamp?,llm-zoomcamp,1a7b27c4df
+"I'm getting an IndexError on the best chunk in the vector search homework. Does the number of embeddings need to match the number of chunks, and how do I make sure it does?",llm-zoomcamp,1a7b27c4df
+"When I build embeddings for my document chunks and then try to access the top chunk, I get list index out of range. Should I be creating embeddings directly from the chunk list, and how many rows should the matrix have?",llm-zoomcamp,1a7b27c4df
+Why does FastEmbed throw an SSL error when I try to initialize it even though I already downloaded the model and it's in my cache?,llm-zoomcamp,6609b934b6
+"How do I make FastEmbed load a cached model without trying to reach Hugging Face over the network, for example inside a Docker container?",llm-zoomcamp,6609b934b6
+"If I already have the FastEmbed model cached, how do I use local_files_only and cache_dir so the TextEmbedding model loads offline?",llm-zoomcamp,6609b934b6
+"Does SparseTextEmbedding or TextCrossEncoder in FastEmbed also support cache_dir and local_files_only, or only TextEmbedding?",llm-zoomcamp,6609b934b6
+"What should I do if I prepared the FastEmbed model folder myself, and is specific_model_path the right option for a fully offline setup?",llm-zoomcamp,6609b934b6
+Why isn't my cosine similarity answer for Q2 in Module 2 homework matching any of the options? What am I doing wrong?,llm-zoomcamp,eaa17a9dc6
+"For the Module 2 homework, do I have to use sentence-transformers to compute the embeddings, or should I use the Embedder from embedder.py instead?",llm-zoomcamp,eaa17a9dc6
+"If I use a different embedding model like multi-qa-mpnet-base-dot-v1 or all-mpnet-base-v2 for Module 2 homework Q2, will my cosine similarity result be wrong?",llm-zoomcamp,eaa17a9dc6
+"In the Module 2 homework, what exactly should I embed for the cosine similarity question, the content field of the page or the whole dict and filename?",llm-zoomcamp,eaa17a9dc6
+"My cosine similarity value for Module 2 Q2 is slightly off even though I'm using the right model, is that normal or did I make a mistake somewhere?",llm-zoomcamp,eaa17a9dc6
+How do I set up my Gemini API key for the Kestra module in llm-zoomcamp? I'm not sure whether I need to export it as a plain variable or base64-encoded.,llm-zoomcamp,3860e5fe8b
+Why does Kestra say my secret is missing even though I exported GEMINI_API_KEY in my terminal? Do I need the SECRET_ prefix and base64 encoding for the flows to work?,llm-zoomcamp,3860e5fe8b
+"Do I also need to configure OpenAI and Tavily API keys for Module 3 Orchestration, and how do I add them as environment variables before starting Kestra?",llm-zoomcamp,3860e5fe8b
+"After exporting the API key environment variables, how do I restart Kestra so it picks up the new secrets, and what command should I run with docker compose?",llm-zoomcamp,3860e5fe8b
+"How do I reference an API key inside a Kestra flow YAML file, and should I include the SECRET_ prefix when I write it in the flow?",llm-zoomcamp,3860e5fe8b
+"Kestra AI Copilot keeps replying ""I can only assist with creating Kestra flows"" no matter what I ask, what am I doing wrong and how do I fix it?",llm-zoomcamp,04440cab11
+"I set up Kestra in Module 3 but the AI Copilot just gives me that canned refusal message, does it need a Gemini API key and where do I put it?",llm-zoomcamp,04440cab11
+Why does the Kestra Copilot refuse to help me even though my flows run fine? Do I need GEMINI_API_KEY or SECRET_GEMINI_API_KEY for the Copilot?,llm-zoomcamp,04440cab11
+"I'm getting ""I can only assist with creating Kestra flows"" from the AI Copilot in the open source edition, how do I make sure the key is picked up after restarting with docker compose?",llm-zoomcamp,04440cab11
+"My Kestra Copilot worked for a bit and then started failing with 429 Resource Exhausted errors on the agent flows, is that a quota problem and what should I do about the Copilot not responding?",llm-zoomcamp,04440cab11
+Why does my Kestra flow still fail with an invalid or missing key even though I set SECRET_GEMINI_API_KEY?,llm-zoomcamp,c8ca21af33
+"I exported SECRET_GEMINI_API_KEY but Kestra says the Gemini key is invalid or missing, what am I doing wrong?",llm-zoomcamp,c8ca21af33
+How do I properly encode the Gemini API key as a base64 secret so Kestra doesn't reject it?,llm-zoomcamp,c8ca21af33
+"Do I need to restart Kestra after exporting the SECRET_GEMINI_API_KEY variable, and how do I reference it in my flow?",llm-zoomcamp,c8ca21af33
+What's the cleanest way to pass the Gemini API key secrets to Kestra using a .env file with docker compose?,llm-zoomcamp,c8ca21af33
+Why do we even need an orchestrator like Kestra for LLM stuff? Can't I just run the code in a notebook and be done with it?,llm-zoomcamp,193612db63
+"I get that notebooks are fine for experimenting, but what does orchestration actually add for AI workflows like scheduling, retries and monitoring?",llm-zoomcamp,193612db63
+Why is Kestra used in Module 3 of the LLM zoomcamp? What does it have to do with the AI techniques we're learning?,llm-zoomcamp,193612db63
+"Do I have to be locked into one LLM provider if I use Kestra, or can I switch between OpenAI, Gemini, Anthropic, etc. easily in a flow?",llm-zoomcamp,193612db63
+"What's the point of this module on orchestration, and how does it connect to RAG and AI agents in production-style workflows rather than just notebook cells?",llm-zoomcamp,193612db63
+"Is Kestra mandatory for the LLM Zoomcamp course, or can I use a different orchestrator instead?",llm-zoomcamp,cce328db64
+"Do I have to use Kestra for the capstone project in LLM Zoomcamp, or can I use Airflow, Prefect, or no orchestrator at all?",llm-zoomcamp,cce328db64
+"If I just write a plain Python script to ingest and index my data for the capstone, will I still get full points on the ingestion pipeline criterion?",llm-zoomcamp,cce328db64
+"Why does LLM Zoomcamp use Kestra in Module 3 instead of something like Airflow, and is it worth running the Kestra flows even if I already know another tool?",llm-zoomcamp,cce328db64
+"Can I switch between LLM providers like OpenAI, Gemini, or Anthropic in Kestra flows without changing much else?",llm-zoomcamp,cce328db64
+"Which AI providers does Kestra support besides Gemini, and can I use Groq or Ollama with it?",llm-zoomcamp,f442efe5b4
+Can I use a local model like one served through Ollama or LM Studio in my Kestra flows instead of Gemini?,llm-zoomcamp,f442efe5b4
+"How do I switch the AI provider in a Kestra flow, and do I need to change anything else when I do?",llm-zoomcamp,f442efe5b4
+"What's the difference between the generic Kestra AI plugin and the provider-specific plugins like plugin-gemini or plugin-openai, and which one should I use?",llm-zoomcamp,f442efe5b4
+"If a provider like DeepSeek, Groq, or xAI doesn't have its own Kestra plugin, how can I still connect to it with the OpenAI plugin?",llm-zoomcamp,f442efe5b4
+Is there a way to use Kestra without writing any code or YAML? I don't really want to hand-write flows.,llm-zoomcamp,bfe5502c30
+Does Kestra have a no-code option like a form editor or something similar to n8n's drag-and-drop?,llm-zoomcamp,bfe5502c30
+"Can I generate Kestra flows just by describing what I want in plain English, like with an AI assistant?",llm-zoomcamp,bfe5502c30
+"Can I create and push Kestra flows from my editor, like Claude Code or Codex, without opening the Kestra UI?",llm-zoomcamp,bfe5502c30
+"Is Kestra overkill for simple automations, like posting a Slack message when a YouTube video goes live, or should I just use Zapier or n8n?",llm-zoomcamp,bfe5502c30
+"Why does ChatGPT keep making up properties like bucket and name when I generate Kestra flow YAML, and how do I stop it?",llm-zoomcamp,93a3e8b98c
+"Why does the AI assistant write GCS Upload tasks with a bucket and name property instead of the real one, and what's the correct way to write it?",llm-zoomcamp,93a3e8b98c
+"Is there a way to stop generic AI tools from inventing Kestra plugin properties for BigQuery LoadFromGcs, like projectId, dataset and table, when the real one is destinationTable?",llm-zoomcamp,93a3e8b98c
+How can I make sure the YAML an AI assistant generates for my Kestra flow actually uses the properties that exist for my Kestra version?,llm-zoomcamp,93a3e8b98c
+"Where can I check the official Kestra GCP plugin docs to verify the YAML properties an AI gave me, and does the Kestra AI Copilot avoid this problem?",llm-zoomcamp,93a3e8b98c
+Why do we need to monitor token usage when running LLM calls inside Kestra workflows?,llm-zoomcamp,a4adc70f41
+How does token usage tracking in Kestra help control costs for LLM API calls?,llm-zoomcamp,a4adc70f41
+Can token usage monitoring in Kestra help me optimize my prompts and shorten responses?,llm-zoomcamp,a4adc70f41
+How do I keep track of token usage per run in a Kestra flow so my LLM bill doesn't blow up in loops or scheduled jobs?,llm-zoomcamp,a4adc70f41
+"Where can I see the usage.total_tokens numbers from the provider's response in Kestra, like in logs or dashboards?",llm-zoomcamp,a4adc70f41
+How do I fix the Docker error 'mounts denied: The path /tmp/... is not shared from the host' when running Kestra in Module 3?,llm-zoomcamp,dd8b4c9fda
+Why do I get 'mounts denied ... is not shared from the host' in Docker Desktop when I run docker compose up for the orchestration module?,llm-zoomcamp,dd8b4c9fda
+Where do I add /tmp to file sharing in Docker Desktop so the Kestra container can mount its working directory?,llm-zoomcamp,dd8b4c9fda
+"After I change the Docker Desktop file sharing settings for /tmp, do I need to restart anything before running docker compose up -d again?",llm-zoomcamp,dd8b4c9fda
+What does the error 'The path /tmp/kestra-wd is not shared from the host' mean and how can I get past it on my machine?,llm-zoomcamp,dd8b4c9fda
+"Why does my Kestra flow return a 404 NOT_FOUND error saying the Gemini model is unavailable, and what should I do about it?",llm-zoomcamp,d51bbe2da0
+"If I get a 404 from Gemini in the Module 3 Kestra workflow, how do I change the model id in the YAML file?",llm-zoomcamp,d51bbe2da0
+"Where do I update the Gemini model name in docker-compose.yml for Kestra, and do I need to restart the services after changing it?",llm-zoomcamp,d51bbe2da0
+How can I find which Gemini model ids are currently available to my API key so I can replace the one causing the 404 in Kestra?,llm-zoomcamp,d51bbe2da0
+"Does a temporary 404 from Gemini mean the model was shut down permanently, or should I just pick a different model in my Kestra flow?",llm-zoomcamp,d51bbe2da0
+What do I actually need to submit for the Module 3 Kestra homework if everything was done inside the Kestra UI?,llm-zoomcamp,f29f622684
+"The submission form wants a link to a public repo, but I didn't write any code from scratch for Module 3. What should I put in the repo?",llm-zoomcamp,f29f622684
+"Do I need to export my Kestra flows and commit them to GitHub for the Module 3 homework, or is there something else I should include?",llm-zoomcamp,f29f622684
+"Is a README required for the Module 3 homework submission, or is it fine to just have the Kestra flow files in the repo?",llm-zoomcamp,f29f622684
+"Where should I put the Kestra flow YAML files in my repo for the Module 3 homework, and do the form answers go in the repo too?",llm-zoomcamp,f29f622684
+"Why do I keep getting a JSONDecodeError: Expecting value when I generate ground-truth questions with the LLM in the evaluation module, and how do I fix it?",llm-zoomcamp,a3c7e1b4f9
+How can I make the LLM return clean JSON so json.loads doesn't fail when generating questions for evaluation?,llm-zoomcamp,a3c7e1b4f9
+"Does OpenAI's response_format parameter work for forcing JSON output when creating ground-truth questions, and what does the code look like?",llm-zoomcamp,a3c7e1b4f9
+What should I put in the prompt so the LLM only outputs a JSON object with a questions key and no extra text or markdown?,llm-zoomcamp,a3c7e1b4f9
+Is there an equivalent to OpenAI's response_format for other providers like Gemini or Groq when I need JSON output in the course evaluation?,llm-zoomcamp,a3c7e1b4f9
+"My Jupyter kernel keeps crashing when I embed the ground-truth set in Module 4, what's causing this and how do I fix it?",llm-zoomcamp,b8f2d6a30c
+Is there a smaller embedding model I can use so my notebook stops running out of memory during the evaluation step?,llm-zoomcamp,b8f2d6a30c
+"If I switch to all-MiniLM-L6-v2 for the embeddings, will my hit rate and MRR numbers change, and do I need to re-run the eval?",llm-zoomcamp,b8f2d6a30c
+Can I run the embedding step as a separate Python script from the terminal and then load the saved vectors back into the notebook?,llm-zoomcamp,b8f2d6a30c
+"How do I give my Codespace more RAM, or is it better to just run the llm-zoomcamp evaluation locally?",llm-zoomcamp,b8f2d6a30c
+I'm generating the ground-truth dataset for Module 4 evaluation and keep hitting rate limits with Gemini. I added time.sleep(4) but it still fails partway through a long tqdm loop. Why is that happening and what can I do about it?,llm-zoomcamp,c1e9f4b820
+"Is adding time.sleep(4) enough to avoid Gemini free-tier rate limits when generating the ground-truth dataset for evaluation, or is there a per-day limit I also need to worry about?",llm-zoomcamp,c1e9f4b820
+"If the free Gemini quota runs out while building the ground-truth set in llm-zoomcamp, what alternatives do I have? Is using OpenAI gpt-4o-mini or Groq's llama-3.3-70b-versatile a good option?",llm-zoomcamp,c1e9f4b820
+"My thread-pool calls to the LLM API keep getting rate limited during the evaluation ground-truth generation. Should I reduce the number of workers, and what pool size makes sense?",llm-zoomcamp,c1e9f4b820
+How can I avoid losing all my progress when generating the ground-truth dataset gets interrupted by an API rate limit? Should I save partial results to a file as I go?,llm-zoomcamp,c1e9f4b820
+"Hey, why is there a gap between lessons 6 and 11 in Module 4 of the llm-zoomcamp? Did I miss some lessons or are some files missing?",llm-zoomcamp,57c8d3a1e4
+I noticed the Module 4: Evaluation filenames jump from 06-search-tuning.md straight to 11-evaluation-intro.md. Are lessons 7 to 10 missing from the course?,llm-zoomcamp,57c8d3a1e4
+"Is something wrong with the Module 4 evaluation lessons in llm-zoomcamp? The numbering goes 01 to 06 and then 11 to 15, so where did 07 through 10 go?",llm-zoomcamp,57c8d3a1e4
+Why does the numbering in Module 4 skip from 06 to 11? I want to make sure I'm not missing any content before I continue with the evaluation section.,llm-zoomcamp,57c8d3a1e4
+"How should I read the lesson numbers in Module 4 of llm-zoomcamp, since they go from 06 to 11? Is that split into two parts or did something get removed?",llm-zoomcamp,57c8d3a1e4
+Why can MRR go up while Hit Rate stays the same?,llm-zoomcamp,8a5ece0688
+"If MRR improves but Hit Rate doesn't change, does that mean my retrieval got better?",llm-zoomcamp,8a5ece0688
+How can Hit Rate stay unchanged when MRR improves in my evaluation results?,llm-zoomcamp,8a5ece0688
+"Hit Rate and MRR are exactly equal in my results, is that a bug in my evaluation code?",llm-zoomcamp,8a5ece0688
+What should I check in my evaluation code if Hit Rate and MRR give the same values?,llm-zoomcamp,8a5ece0688
+"Hey, where can I find the code or notebook for the agent-evaluation lesson in the LLM Zoomcamp Module 4: Evaluation?",llm-zoomcamp,4de1cb9a3f
+I'm going through Module 4 of llm-zoomcamp and can't locate the agent evaluation code. Which directory or notebook has it?,llm-zoomcamp,4de1cb9a3f
+"Where exactly is the agent-evaluation lesson material for the LLM Zoomcamp evaluation module, both the code and the lesson file?",llm-zoomcamp,4de1cb9a3f
+Does anyone know where the agent evaluation notebook is stored in the llm-zoomcamp repo? I want to run it along with the lesson.,llm-zoomcamp,4de1cb9a3f
+"Quick question: in llm-zoomcamp Module 4, where do I get the code for the agent-evaluation lesson and where is the lesson write-up itself?",llm-zoomcamp,4de1cb9a3f
+How do I catch an LLM-as-judge score that doesn't match the reasoning it gives in the llm-zoomcamp evaluation module?,llm-zoomcamp,b47f096063
+"Why shouldn't I just trust the numeric score from my LLM-as-a-judge evaluation, and should I read the judge's written reasoning too?",llm-zoomcamp,b47f096063
+"If my LLM judge's justification says the answer is correct but the score is low, how would I notice that when I have thousands of evaluation results?",llm-zoomcamp,b47f096063
+"How many LLM-as-judge results should I manually spot-check, and what should I look for when I review them?",llm-zoomcamp,b47f096063
+What's the best way to structure LLM judge output in Python so the reasoning and score always show up together for manual review?,llm-zoomcamp,b47f096063
+"I'm getting OSError: [WinError 126] The specified module could not be found when loading fbgemm.dll from torch on Windows, how do I fix this?",llm-zoomcamp,15e931476c
+Why does my torch import fail on Windows with 'Error loading fbgemm.dll or one of its dependencies'? What do I need to install?,llm-zoomcamp,15e931476c
+Do I need Visual C++ Redistributable or Visual Studio to get PyTorch working on Windows when fbgemm.dll is missing?,llm-zoomcamp,15e931476c
+Is installing Visual Studio (not VS Code) the fix for the WinError 126 fbgemm.dll error in the llm-zoomcamp Monitoring module?,llm-zoomcamp,15e931476c
+Where can I find more details about the fbgemm.dll WinError 126 problem with PyTorch on Windows?,llm-zoomcamp,15e931476c
+"Why do I get an OperationalError when running python prep.py with psycopg2 saying it could not translate host name ""postgres"" to address?",llm-zoomcamp,4b65d5542d
+"I'm getting 'could not translate host name postgres to address: No such host is known' when I run prep.py in Module 5, how do I fix it?",llm-zoomcamp,4b65d5542d
+What should I change in my .env file to fix the psycopg2 OperationalError about the postgres host not being found when running prep.py?,llm-zoomcamp,4b65d5542d
+"Running python prep.py gives me a psycopg2 OperationalError saying No such host is known for postgres, what's the fix for this in the monitoring module?",llm-zoomcamp,4b65d5542d
+"Is there a way to fix the psycopg2 OperationalError on prep.py where the postgres hostname can't be resolved, and which POSTGRES_HOST value should I use?",llm-zoomcamp,4b65d5542d
+How do I set Pandas to show the entire text content in a column? I need to see the full Explanation column in the LLM-as-judge section of the offline-rag-evaluation notebook.,llm-zoomcamp,641aedbbf5
+Why does Pandas cut off my text in the Explanation column when I print the dataframe in the offline RAG evaluation notebook?,llm-zoomcamp,641aedbbf5
+Is there a way to stop Pandas from truncating long text in a column so I can read the whole explanation from the judge LLM?,llm-zoomcamp,641aedbbf5
+What pandas option do I need to change to display the full content of a column instead of the truncated version with the ... placeholder?,llm-zoomcamp,641aedbbf5
+"What does pd.set_option('display.max_colwidth', None) do, and what is the default column width limit in Pandas?",llm-zoomcamp,641aedbbf5
+"Hey, I have a column of embedding vectors in a pandas DataFrame and I need to scale each one to unit length. What's the easiest way to do that?",llm-zoomcamp,5039707c1a
+How can I apply L2 normalization to every vector stored in one column of my DataFrame? Is there a quick one-liner?,llm-zoomcamp,5039707c1a
+My DataFrame has a column holding numpy arrays and I want to normalize each row's vector. How do I do this without writing a loop?,llm-zoomcamp,5039707c1a
+"What's the best way to normalize vectors inside a pandas Series using numpy, and how do I store the result back in a new column?",llm-zoomcamp,5039707c1a
+I'm working on the Module 5 monitoring homework and need to normalize embeddings in a pandas column. Can someone show me how to use apply with np.linalg.norm?,llm-zoomcamp,5039707c1a
+how do I get the 75th percentile of a column in a pandas dataframe?,llm-zoomcamp,b4c8ac5a0c
+is there a way to calculate quantiles for a pandas series in python?,llm-zoomcamp,b4c8ac5a0c
+what's the pandas method to find the 0.75 quantile of a dataframe column?,llm-zoomcamp,b4c8ac5a0c
+"I need to compute percentiles for one column of my dataframe, how can I do that with pandas?",llm-zoomcamp,b4c8ac5a0c
+"which function returns the quantile value for a column in pandas, and how do you pass the q value?",llm-zoomcamp,b4c8ac5a0c
+"How do I remove all Docker containers, including the running ones, from the terminal in one go?",llm-zoomcamp,66ccbb7da0
+What's the command to delete every Docker image on my machine at once?,llm-zoomcamp,66ccbb7da0
+Is there a quick way to remove all Docker volumes from the terminal without deleting them one by one?,llm-zoomcamp,66ccbb7da0
+"How can I clean up all my Docker containers, images, and volumes from the command line for the llm-zoomcamp module 5 monitoring setup?",llm-zoomcamp,66ccbb7da0
+"Can someone show me the bash commands to wipe out all Docker containers, images, and volumes at once?",llm-zoomcamp,66ccbb7da0
+Why does st.session_state.submitted keep resetting to True in my Streamlit app so the +1 and -1 buttons stay enabled and I can vote more than once per answer?,llm-zoomcamp,2e729f1271
+"My Streamlit feedback buttons (+1 / -1) keep working after I already voted, how do I make sure only one vote is allowed per answer when submitted is reset on every rerun?",llm-zoomcamp,2e729f1271
+"Why do my st.button disabled states in Streamlit only update on the next click instead of right away, and do I need st.rerun() after changing session_state?",llm-zoomcamp,2e729f1271
+"Should I initialize st.session_state.submitted with a plain assignment at the top of the script or only when the key is missing, because my flag gets overwritten on every rerun?",llm-zoomcamp,2e729f1271
+How do I set up the Ask button and the +1 / -1 feedback buttons in Streamlit so the feedback buttons are disabled until a new question is submitted and each answer gets just one vote?,llm-zoomcamp,2e729f1271
+Why does my Grafana pie chart only show one slice labeled 'n' even though my PostgreSQL query returns separate feedback categories like thumbs up and thumbs down?,llm-zoomcamp,0cf2421dca
+"My PostgreSQL query returns multiple rows with feedback and n columns, but the pie chart in Grafana collapses them into a single slice. How do I get each category to show as its own slice?",llm-zoomcamp,0cf2421dca
+How do I use the Rows to fields transformation in Grafana so that each feedback category becomes its own numeric field for a pie chart?,llm-zoomcamp,0cf2421dca
+"When building a Grafana pie chart from a PostgreSQL table, what Calculate option should I use after Rows to fields so each category keeps its own slice?",llm-zoomcamp,0cf2421dca
+"How can I check that my Grafana pie chart is showing the right counts, like thumbs up 3 and thumbs down 2, instead of one slice labeled n?",llm-zoomcamp,0cf2421dca
+"Why does my SQLite exporter receive no spans when I run my notebook for the Module 5 homework, and why do I get the 'Overriding of current TracerProvider is not allowed' error?",llm-zoomcamp,ba1d5f13e7
+"Why is my traces.db empty even though I set up the SQLite exporter, and what does the 'Overriding of current TracerProvider is not allowed' message mean in my notebook?",llm-zoomcamp,ba1d5f13e7
+"I created a new TracerProvider in my notebook and called set_tracer_provider again, but nothing gets written to traces.db and I see the TracerProvider overriding error. What am I doing wrong?",llm-zoomcamp,ba1d5f13e7
+How do I fix the 'Overriding of current TracerProvider is not allowed' error in the Module 5 homework so my SQLite exporter actually receives spans?,llm-zoomcamp,ba1d5f13e7
+"Do I need to restart the kernel to change the exporter in my OpenTelemetry setup, or can I just create a new provider in another cell and get my spans into traces.db?",llm-zoomcamp,ba1d5f13e7
+"My script freezes or crashes with a RecursionError when I initialize OpenTelemetry with ConsoleSpanExporter in Module 5, what's causing this?",llm-zoomcamp,702399225b
+Why does ConsoleSpanExporter cause a RecursionError in the Module 5 homework? Is it a Python version issue?,llm-zoomcamp,702399225b
+"I'm getting a RecursionError on the Module 5 homework when setting up OpenTelemetry, how do I fix it without changing the exporter?",llm-zoomcamp,702399225b
+Do I need to upgrade opentelemetry-api and opentelemetry-sdk to get the Module 5 homework working on Python 3.14?,llm-zoomcamp,702399225b
+"My custom SQLite span exporter is incomplete and I'm tempted to just drop it in to fix the RecursionError, should I include shutdown() and force_flush() methods?",llm-zoomcamp,702399225b
+"How do I set up the monitoring homework to use Groq instead of OpenAI, since I don't have an OpenAI key?",llm-zoomcamp,01517c80df
+Can I use Gemini or Groq with the Module 5 starter.py code? It seems to expect OpenAI's Responses API and I'm not sure how to change the RAGWithMetrics class.,llm-zoomcamp,01517c80df
+What base_url and API key should I use in starter.py's client if I want to run the monitoring homework with Groq's Chat Completions endpoint?,llm-zoomcamp,01517c80df
+"Why does my Groq request return a 404 in the Module 5 homework, and do I need to change the model name when switching providers?",llm-zoomcamp,01517c80df
+"If my provider rejects the first request because the prompt is too long for the token limit, will retrying help, and how can I shrink the retrieved context in RAGBase.search()?",llm-zoomcamp,01517c80df
+"Why do I get 'executable file not found in $PATH: streamlit' when I run my streamlit app with docker-compose, even though it works fine outside docker?",llm-zoomcamp,e8df9f0d12
+How do I fix the OCI runtime error saying streamlit executable not found when starting a container with docker-compose?,llm-zoomcamp,e8df9f0d12
+"My streamlit app runs locally but docker-compose fails with 'exec: ""streamlit"": executable file not found in $PATH', what do I need to change?",llm-zoomcamp,e8df9f0d12
+What should I add to my Dockerfile and docker-compose setup so streamlit can be found when the container starts?,llm-zoomcamp,e8df9f0d12
+Do I need to rebuild with docker-compose up --build after fixing the streamlit not found error in my container?,llm-zoomcamp,e8df9f0d12
+"Why did my hybrid search (text plus vector) score worse than plain text search alone in Module 6, and is something wrong with my setup?",llm-zoomcamp,265df9e9cc
+"If my hybrid search uses TF-IDF with SVD for the vector side, will it actually help over text search, or is it just adding the same word-overlap signal again?",llm-zoomcamp,265df9e9cc
+"How can I tell whether my hybrid search is underperforming because the vector side is too weak, and what should I compare to figure that out?",llm-zoomcamp,265df9e9cc
+"Does the llm-zoomcamp hybrid search combine text and vector scores with a weighted sum like alpha times vector score plus one minus alpha times keyword score, or with rank fusion?",llm-zoomcamp,265df9e9cc
+"What embedding model should I use for the vector side of hybrid search instead of TF-IDF, and where can I find the lesson on it in Module 6?",llm-zoomcamp,265df9e9cc
+Why do we use both the filename and start offset as the key when combining hybrid search results with RRF in LLM Zoomcamp? Isn't the filename alone enough to identify a document?,llm-zoomcamp,6a0b2e32ce
+"In the hybrid search part of Module 6, why is the key for RRF a tuple of (doc['filename'], doc['start']) instead of just the filename?",llm-zoomcamp,6a0b2e32ce
+What happens if I use only doc['filename'] as the key when merging text search and vector search results with RRF? Why would that be a problem?,llm-zoomcamp,6a0b2e32ce
+Why does RRF need a unique key per chunk rather than per source file when combining the text-search and vector-search lists?,llm-zoomcamp,6a0b2e32ce
+I'm confused about the key used in the RRF code for hybrid search. Can someone explain why filename and start are both needed for matching the same result across both lists?,llm-zoomcamp,6a0b2e32ce
+"Is the capstone project something I have to do with a team, or is it a group project?",llm-zoomcamp,0fab61eca2
+"Can I work with other students on the capstone project, or does everyone need to submit their own separate project?",llm-zoomcamp,0fab61eca2
+"If my classmates and I brainstorm the same idea for the capstone, are we allowed to build it together and still each submit it?",llm-zoomcamp,0fab61eca2
+"Does each person need their own separate repository and a distinct qualifying component for the capstone, or can we share one codebase?",llm-zoomcamp,0fab61eca2
+"If a shared system for the capstone can't be evaluated separately for each participant, will it still count as meeting the project requirement?",llm-zoomcamp,0fab61eca2
+"Do I need to submit two capstone projects for the LLM zoomcamp, or just one? What do attempt 1 and attempt 2 mean?",llm-zoomcamp,d5fc98925d
+"If my capstone project fails at attempt 1, can I improve it and resubmit it during the attempt 2 window?",llm-zoomcamp,d5fc98925d
+"If I already passed attempt 1 with my capstone project, do I still need to submit anything in attempt 2?",llm-zoomcamp,d5fc98925d
+"Can I submit a second capstone project with a different dataset and problem statement for extra experience, or is that considered self-plagiarism?",llm-zoomcamp,d5fc98925d
+"What happens if I miss the attempt 1 submission window for the capstone project, can I still submit during attempt 2 and get certified?",llm-zoomcamp,d5fc98925d
+"Does the Kaggle competition count as the capstone project for the LLM zoomcamp, or do I still need to do a separate capstone?",llm-zoomcamp,e892d44e42
+"Can I team up with other students for the capstone project, or is it something I have to do on my own?",llm-zoomcamp,e892d44e42
+"If I join the math kaggle LLM competition, will that replace my capstone project in the course?",llm-zoomcamp,e892d44e42
+"Is the capstone project supposed to be an individual effort, or can I do it in a group since there's a competition where teams are allowed?",llm-zoomcamp,e892d44e42
+Do I still need to submit a capstone if I'm already participating in the math-kaggle-llm-competition with my team?,llm-zoomcamp,e892d44e42
+How is my capstone project going to be evaluated in the llm-zoomcamp course?,llm-zoomcamp,9a2e2d2008
+"Who will grade my capstone project, is it the instructors or other students?",llm-zoomcamp,9a2e2d2008
+"Do I have to grade other students' projects too, or is it optional?",llm-zoomcamp,9a2e2d2008
+What happens if I don't review the projects of my three assigned peers for the capstone?,llm-zoomcamp,9a2e2d2008
+How is the final grade for the capstone calculated from the peer reviews?,llm-zoomcamp,9a2e2d2008
+"When do peer-review assignments for the capstone project come out, and how do I find out which projects I need to review?",llm-zoomcamp,eae0fb50aa
+"Do I have to sign up to get my peer-review assignments for the capstone project, or will they be given to me automatically?",llm-zoomcamp,eae0fb50aa
+"Can I choose which capstone projects I want to review, or are they assigned to me randomly?",llm-zoomcamp,eae0fb50aa
+Do I need to ask the course team to get my capstone peer-review assignments after submissions close?,llm-zoomcamp,eae0fb50aa
+"Where can I see the projects assigned to me for peer review in the capstone, and is there a separate deadline for the reviews?",llm-zoomcamp,eae0fb50aa
+"I already submitted my capstone project, so why am I not able to review any other projects yet?",llm-zoomcamp,a8a7fef016
+"Can I pick which projects I want to evaluate for the capstone, or does the system assign them to me?",llm-zoomcamp,a8a7fef016
+"When will the peer review assignments for the capstone project be available, and can I start reviewing before then?",llm-zoomcamp,a8a7fef016
+Is it possible to review projects from other students before the submission deadline has passed in the LLM zoomcamp capstone?,llm-zoomcamp,a8a7fef016
+"How does the project evaluation process work after the capstone submission deadline, and who decides which projects I have to review?",llm-zoomcamp,a8a7fef016
+Where can I get inspiration for my capstone project? I'm stuck on what to build.,llm-zoomcamp,e76a70cde3
+"Are there any public datasets I could use for the capstone, or a list of them somewhere?",llm-zoomcamp,e76a70cde3
+Does the course give any example topics for the final project in the LLM course?,llm-zoomcamp,e76a70cde3
+Is there a page with project suggestions and data sources I can use for the capstone?,llm-zoomcamp,e76a70cde3
+What's a good place to look for project topics and data before I start the capstone?,llm-zoomcamp,e76a70cde3
+"Do I need to use an orchestration tool like Airflow, Mage, or Kestra for my capstone project?",llm-zoomcamp,d4f7c08ea1
+"Is a plain Python script enough for the ingestion pipeline criterion in the capstone, or do I need an orchestrator to get full points?",llm-zoomcamp,d4f7c08ea1
+"If I put my ingestion steps in a Jupyter notebook instead of a Python script, will I lose points on the capstone's ingestion pipeline criterion?",llm-zoomcamp,d4f7c08ea1
+"When should I actually use an orchestrator like Airflow or Kestra for the capstone project, and when is it unnecessary?",llm-zoomcamp,d4f7c08ea1
+Should I add an orchestration tool to my capstone just to score points on the ingestion pipeline criterion?,llm-zoomcamp,d4f7c08ea1
+How do I evaluate a recommender-style RAG system for my capstone project when there is no obvious question-and-answer ground truth to compare against?,llm-zoomcamp,9b0e2d6a47
+"For my capstone project, my RAG is more like a recommender and I don't have Q&A pairs, so how can I generate ground truth to measure retrieval quality?",llm-zoomcamp,9b0e2d6a47
+"Can I use an LLM to create synthetic test queries for each item in my dataset and then measure hit rate, MRR, or NDCG on my retrieval?",llm-zoomcamp,9b0e2d6a47
+What's the best way to judge end-to-end quality of a recommender-style RAG using an LLM as a judge with a rating rubric like 1 to 5?,llm-zoomcamp,9b0e2d6a47
+Why would NDCG be a better metric than hit rate for evaluating a ranking-style RAG where several items could be acceptable answers?,llm-zoomcamp,9b0e2d6a47
+"I'm working on my capstone project and my corpus is pretty large, with long PDFs and lots of paragraphs. What chunking strategy should I use for that?",llm-zoomcamp,6f2a8b3d10
+"For my capstone, should I just pick the perfect chunking method before I start building, or is there a better way to approach it?",llm-zoomcamp,6f2a8b3d10
+"What's a reasonable starting point for chunking, like fixed-size chunks with overlap, and how do I know if it's working well?",llm-zoomcamp,6f2a8b3d10
+"My documents are long and structured, like legal or financial stuff. Is hybrid search with BM25 plus dense embeddings worth it so exact wording doesn't get lost in chunking?",llm-zoomcamp,6f2a8b3d10
+What tools can I use to parse long PDFs into clean markdown before chunking them for my capstone project?,llm-zoomcamp,6f2a8b3d10
+"For the capstone project, what does reproducibility mean, and do peer reviewers need access to my API keys to check my work?",llm-zoomcamp,e5d8a2c761
+How can I make my llm-zoomcamp capstone project reproducible without putting my API keys in the repo?,llm-zoomcamp,e5d8a2c761
+Should I include my .env file in the GitHub repo so reviewers can run my capstone project?,llm-zoomcamp,e5d8a2c761
+What should I include in my capstone README so a reviewer can recreate my system from scratch with their own credentials?,llm-zoomcamp,e5d8a2c761
+Which model should I use for the capstone project so reviewers don't run up a big bill when they test it?,llm-zoomcamp,e5d8a2c761
+"I'm thinking about doing the LLM Zoomcamp capstone project in JavaScript or TypeScript since that's what I use at work. Is that allowed, or do I have to use Python?",llm-zoomcamp,ea815eb858
+"Can I submit my homework or project in Go, Rust, Java, or C# instead of Python? I'm comfortable with those languages and would rather not learn Python just for this course.",llm-zoomcamp,ea815eb858
+"Is it okay to use R or Scala for the homework and final project in llm-zoomcamp, or is Python required for everything?",llm-zoomcamp,ea815eb858
+"If I end up using a non-Python language for my capstone project, what kind of documentation do I need to provide so the reviewers can actually run it?",llm-zoomcamp,ea815eb858
+"Do I have to stick with Python for every homework and the final project, or is there any flexibility if I have a strong reason to use another stack?",llm-zoomcamp,ea815eb858
+Is there a place where I can look at projects other people submitted to LLM Zoomcamp in earlier years?,llm-zoomcamp,930286278d
+How do I see what past capstone projects from previous cohorts looked like before I start mine?,llm-zoomcamp,930286278d
+Where are the older LLM Zoomcamp project submissions published so I can get a sense of what a good capstone looks like?,llm-zoomcamp,930286278d
+Can I check out repos from earlier LLM Zoomcamp cohorts to understand how much work the capstone is supposed to be?,llm-zoomcamp,930286278d
+Are the 2024 and 2025 LLM Zoomcamp capstone submissions available somewhere online for reference?,llm-zoomcamp,930286278d
+Do I need to announce or reserve my project idea before I start working on my capstone project in the LLM zoomcamp?,llm-zoomcamp,897a350476
+"If someone else in the course already picked a similar topic for their capstone project, am I still allowed to use my own idea or do I need to reserve it first?",llm-zoomcamp,897a350476
+"Is there a way to get feedback on my capstone project idea before I commit to it, and where should I ask for it?",llm-zoomcamp,897a350476
+Can I look at what previous students built for their projects so I understand how big the scope should be for the LLM zoomcamp capstone?,llm-zoomcamp,897a350476
+"If my capstone project topic is similar to one from a previous year, is that a problem as long as I write the implementation myself?",llm-zoomcamp,897a350476
+"Do I have to build a web app for the capstone project, or can I make a Telegram or WhatsApp bot instead?",llm-zoomcamp,7318a90b14
+"Is a web app required for the LLM Zoomcamp capstone, or can I use a CLI or a notebook?",llm-zoomcamp,7318a90b14
+Can I build my capstone as a Slack app instead of a website?,llm-zoomcamp,7318a90b14
+Does the course teach how to build a Telegram or WhatsApp bot for the capstone project?,llm-zoomcamp,7318a90b14
+"Are there any rules on how the capstone project has to be delivered to the end user, or can I pick any interface?",llm-zoomcamp,7318a90b14
+What tools can I use to extract text from PDFs for my RAG project in the capstone?,llm-zoomcamp,d8b28c47a0
+"Is there a specific library the course recommends for pulling text out of PDFs, or can I pick any?",llm-zoomcamp,d8b28c47a0
+"My PDFs are scanned documents with no text layer, so what OCR option should I use for a RAG pipeline?",llm-zoomcamp,d8b28c47a0
+"Which is better for RAG, docling or PyMuPDF, when it comes to extracting text from PDFs?",llm-zoomcamp,d8b28c47a0
+Are hosted OCR services like Mistral OCR a good option if I don't want to run OCR locally for my capstone project?,llm-zoomcamp,d8b28c47a0
+Do I need a minimum number of documents or rows in my dataset for the capstone project?,llm-zoomcamp,f0439b5faf
+How big does my dataset have to be for the LLM zoomcamp capstone? Is there a required minimum?,llm-zoomcamp,f0439b5faf
+Will my capstone project be rejected if my dataset is too small?,llm-zoomcamp,f0439b5faf
+"What do reviewers look at when grading the capstone project, the number of rows in my data or something else?",llm-zoomcamp,f0439b5faf
+"I only have a small dataset for my capstone project, is that okay as long as it works for retrieval or the agent flow?",llm-zoomcamp,f0439b5faf
+"Does my capstone project data have to come from a live API, or can I just use a static file?",llm-zoomcamp,2cf500aae6
+Can I create my own dataset for the LLM zoomcamp capstone project instead of using an API?,llm-zoomcamp,2cf500aae6
+"If I use a static file or a self-made dataset for my capstone, do I still get full reproducibility points?",llm-zoomcamp,2cf500aae6
+What do I need to include so reviewers can rebuild the knowledge base for my capstone project?,llm-zoomcamp,2cf500aae6
+Where can I find the evaluation criteria for the ingestion and reproducibility requirements in the capstone project?,llm-zoomcamp,2cf500aae6
+Is it okay if my dataset for the capstone project is in a language other than English?,llm-zoomcamp,5ffe92bb02
+"Can I build my LLM zoomcamp capstone project with non-English data, and what language should the README be in?",llm-zoomcamp,5ffe92bb02
+"I want to use a dataset in Spanish for my capstone project, is that allowed or do I need English data?",llm-zoomcamp,5ffe92bb02
+"Does the capstone project require an English dataset, or can the app responses be in another language too?",llm-zoomcamp,5ffe92bb02
+"If I use a non-English dataset for the capstone, should the README and setup docs still be written in English for reviewers?",llm-zoomcamp,5ffe92bb02
+"Do I have to use documents like PDFs or text files for my capstone project, or is something else okay?",llm-zoomcamp,6baab508b1
+Can my capstone use a database with tables instead of unstructured text? Would that still count?,llm-zoomcamp,6baab508b1
+"If I go with structured data like table descriptions or records for the capstone, what do I still need to do with that data in my pipeline?",llm-zoomcamp,6baab508b1
+Where can I find the criteria my capstone's RAG or agent flow will be evaluated against?,llm-zoomcamp,6baab508b1
+"Is it fine to pick database schemas or records as the data source for my LLM zoomcamp capstone, or is there a catch?",llm-zoomcamp,6baab508b1
+"Hey, is it allowed to use Evidently in my capstone project for llm-zoomcamp?",llm-zoomcamp,ec22c5eb86
+I'm working on the capstone project for the LLM zoomcamp and was wondering if Evidently is an acceptable tool to use there?,llm-zoomcamp,ec22c5eb86
+"Can we use the Evidently library for the capstone project, or do we need to pick something else?",llm-zoomcamp,ec22c5eb86
+Quick question about the capstone project: does the course allow using Evidently for monitoring or evaluation?,llm-zoomcamp,ec22c5eb86
+Is Evidently okay to use for the capstone part of llm-zoomcamp? I want to make sure before I build my project around it.,llm-zoomcamp,ec22c5eb86
+"Do I need to come up with a totally new idea for the capstone project, or is it okay to build something that already exists?",llm-zoomcamp,4179bc68b6
+"Can I implement an existing project idea myself for the llm-zoomcamp capstone, or does it have to be original?",llm-zoomcamp,4179bc68b6
+Is it allowed to use the same dataset from the course lectures or homework for my capstone project?,llm-zoomcamp,4179bc68b6
+"Can I reuse a dataset we already worked with in the lectures or homework for the capstone, or do I need to find a new one?",llm-zoomcamp,4179bc68b6
+"For the LLM zoomcamp capstone project, do I have to invent my own idea from scratch, or can I follow an idea someone else has already made?",llm-zoomcamp,4179bc68b6
+Which commit ID should I put in the Commit ID field when I submit my capstone project?,llm-zoomcamp,82207724ff
+"Do I need to use the latest commit on main when submitting my project, or can I pick an older one?",llm-zoomcamp,82207724ff
+How do I find the 7-character commit hash on GitHub for the capstone submission form?,llm-zoomcamp,82207724ff
+Is there a command line way to get the short commit hash for my project submission?,llm-zoomcamp,82207724ff
+"If I push more changes after submitting my capstone, will reviewers see them or only the commit I submitted?",llm-zoomcamp,82207724ff
+"Once peer reviews get assigned to me, how long do I actually have to finish them?",llm-zoomcamp,785b277339
+"Does the peer review window open right after the project submission form closes, and how long does it stay open?",llm-zoomcamp,785b277339
+Where can I see the exact deadline for my peer reviews in the capstone project?,llm-zoomcamp,785b277339
+"What happens if I miss the peer review deadline for the capstone project, does my submission still count toward the certificate?",llm-zoomcamp,785b277339
+"Is the peer review deadline fixed or can it change, since the cohort lead opens the reviews manually?",llm-zoomcamp,785b277339
+"Am I allowed to use AI tools like ChatGPT, Claude, or Cursor to write code for my capstone project in the llm-zoomcamp?",llm-zoomcamp,2fed4b176c
+"Do I have to tell you if I used AI tools like ChatGPT or Cursor while building my capstone project, or is there a form I need to fill out?",llm-zoomcamp,2fed4b176c
+"If I use Claude or Cursor to help write my capstone project code, what do I need to be able to explain to peer reviewers?",llm-zoomcamp,2fed4b176c
+"Should I mention in my README that I used AI tools for the capstone project, and when exactly do I need to document it?",llm-zoomcamp,2fed4b176c
+Where can I find the full rules on AI usage for the llm-zoomcamp capstone project and homework?,llm-zoomcamp,2fed4b176c
+"Hey, I've finished my capstone project for the LLM zoomcamp, but I'm not sure where I'm supposed to submit it. Is there a specific platform I should use for this?",llm-zoomcamp,920bb7ead8
+Where exactly do I submit my capstone project for llm-zoomcamp? I found some old submission links online and I'm not sure if they still work.,llm-zoomcamp,920bb7ead8
+"I'm wrapping up the capstone project for the LLM course. Do project submission and the peer review both happen on the same platform, and which one should I be using for the current cohort?",llm-zoomcamp,920bb7ead8
+"Quick question about the capstone project: which submission link should I use? I saw links from earlier cohorts floating around, but do I need to use the current cohort's course management platform instead?",llm-zoomcamp,920bb7ead8
+"Where do peer reviews of the capstone project take place, and is it the same place where I submit my project? I want to make sure I'm not using a closed form from a past cohort.",llm-zoomcamp,920bb7ead8
+"I already submitted my capstone project for the LLM zoomcamp, but is that it? What else do I need to do to get the certificate?",llm-zoomcamp,8471c98e1f
+Do I need to sign up for peer reviews for the capstone project or are they assigned automatically?,llm-zoomcamp,8471c98e1f
+When will I be able to see my capstone score and the feedback from reviewers? My score is still empty.,llm-zoomcamp,8471c98e1f
+My capstone score is empty after submitting. Should I resubmit it as attempt 2 to get a score?,llm-zoomcamp,8471c98e1f
+"Can I choose which capstone projects I get to review in the peer review step, or is that assigned randomly?",llm-zoomcamp,8471c98e1f
+"Hey, where can I find the exact submission deadlines for the capstone project in the current LLM Zoomcamp cohort?",llm-zoomcamp,670737acd7
+Is the capstone deadline the same every cohort or does it change?,llm-zoomcamp,670737acd7
+"I'm looking at an old cohort's page for capstone dates, are those still valid for this year?",llm-zoomcamp,670737acd7
+Where do I see when attempt 1 and attempt 2 of the capstone are due?,llm-zoomcamp,670737acd7
+"Do the capstone submission dates show up anywhere next to the form, or do I need to look somewhere else?",llm-zoomcamp,670737acd7
+What is the minimum score I need to pass the LLM Zoomcamp capstone project and get the certificate?,llm-zoomcamp,4f03b674b8
+Where can I check the pass mark for the capstone project in my cohort? Does it change between cohorts?,llm-zoomcamp,4f03b674b8
+"How is the capstone project scored, and what does that have to do with passing?",llm-zoomcamp,4f03b674b8
+Do I still need to do the peer reviews for the capstone if my project score is already above the passing mark?,llm-zoomcamp,4f03b674b8
+"Is the 11 point passing score for the capstone the same for every LLM Zoomcamp cohort, or can it change for future ones?",llm-zoomcamp,4f03b674b8
+How do I deploy my Streamlit app to the cloud so I get a live URL for the Cloud Deployment bonus in the capstone?,llm-zoomcamp,010794bfff
+"Can I host my Streamlit app on Vercel or Netlify for the capstone bonus, or do I need something else?",llm-zoomcamp,010794bfff
+Which hosting options work for a Streamlit app if I need a public URL for the +2 Cloud Deployment bonus?,llm-zoomcamp,010794bfff
+"Is Render a good option for deploying my capstone Streamlit app with a Dockerfile, and how do I set it up?",llm-zoomcamp,010794bfff
+How do I deploy my Streamlit app to GCP Cloud Run with Terraform and find the service URL?,llm-zoomcamp,010794bfff
+Why did Render deploy the wrong service from my multi-stage Dockerfile? It worked fine locally with docker-compose but Render ran the other stage.,llm-zoomcamp,5b343ea5b3
+"How does Render pick which stage of a multi-stage Dockerfile to build, since I don't see any option to set a target stage in the Blueprint?",llm-zoomcamp,5b343ea5b3
+"If my Dockerfile has an api stage and a ui stage, does the order of the stages matter when deploying to Render?",llm-zoomcamp,5b343ea5b3
+"Why does docker build without --target produce the last stage, and how can I test what Render will actually build before I push?",llm-zoomcamp,5b343ea5b3
+"Is there a way to choose which service Render deploys from a multi-stage Dockerfile, or do I have to reorder the stages so the one I want comes last?",llm-zoomcamp,5b343ea5b3
+"I passed the LLM Zoomcamp capstone project, so when exactly will I get my certificate?",llm-zoomcamp,febc213623
+"If I passed an earlier attempt of the project, do I need to wait for something before getting my certificate?",llm-zoomcamp,febc213623
+"Do I have to request my certificate somehow, or will it be sent to me automatically?",llm-zoomcamp,febc213623
+What name will be printed on my certificate and where can I check or change it?,llm-zoomcamp,febc213623
+"I got the email about my certificate being ready but I can't find it, where should I look?",llm-zoomcamp,febc213623
+"I'm reviewing a capstone project for the llm-zoomcamp, but the project is written in a language other than English. Is that allowed, and how should I grade it?",llm-zoomcamp,cd00ab5a6e
+"Hey, one of the projects I need to review for the LLM Zoomcamp capstone isn't in English. What am I supposed to do about that?",llm-zoomcamp,cd00ab5a6e
+"For the llm-zoomcamp capstone project review, do projects have to be submitted in English? What if a project is in another language?",llm-zoomcamp,cd00ab5a6e
+"I got assigned a capstone project to evaluate in llm-zoomcamp and it's not written in English. Should I give it zeros, or is there another way to handle it?",llm-zoomcamp,cd00ab5a6e
+"When peer reviewing capstone projects in llm-zoomcamp, what's the right move if the project isn't in English? Can I use a translator to evaluate it?",llm-zoomcamp,cd00ab5a6e
+"I missed the first deadline and submitted my capstone project in a later attempt. Do I still need to review the projects from the first attempt, or only the ones from the attempt I submitted in?",llm-zoomcamp,0676fe8bb5
+"If I submit my capstone project in attempt 2 instead of attempt 1, which peer reviews am I supposed to complete? Are the ones assigned in attempt 1 also required?",llm-zoomcamp,0676fe8bb5
+"My capstone project got submitted late, in a later attempt. Which peer reviews do I have to do for the llm-zoomcamp course, just the ones from my submission attempt?",llm-zoomcamp,0676fe8bb5
+"I'm submitting my LLM zoomcamp capstone project in a retry attempt. Do I need to do peer reviews for earlier attempts too, or only the ones in the attempt I submitted to?",llm-zoomcamp,0676fe8bb5
+"Quick question about the capstone for llm-zoomcamp: if I submitted in a later attempt, do I review the peer projects assigned in that attempt, or do I also have to do the reviews from the earlier attempts?",llm-zoomcamp,0676fe8bb5
+"For the capstone peer review, do I actually have to clone the project and run it, or is just reading through the code enough to submit my evaluation?",llm-zoomcamp,02f67a9daf
+"Is it mandatory to run the capstone project when doing peer review in llm-zoomcamp, or can I just go through the repository code?",llm-zoomcamp,02f67a9daf
+How deeply do I need to check someone's capstone project during peer review? Can I just read the code or should I clone and run it too?,llm-zoomcamp,02f67a9daf
+"I'm doing peer review for the LLM zoomcamp capstone. Is cloning and running the project required, or is reading the code in the repo good enough?",llm-zoomcamp,02f67a9daf
+"For the llm-zoomcamp capstone peer review, what exactly do I need to do besides submitting the evaluation? Do I have to run the project or can I just review the code?",llm-zoomcamp,02f67a9daf
+"My knowledge base file is too big to push to the repo, so how do I get it to the reviewers for the capstone?",llm-zoomcamp,e22f6fa5dc
+Is there a way to share a large knowledge base file with peer reviewers if it won't fit in my Git repository?,llm-zoomcamp,e22f6fa5dc
+Can I attach a big data file to a GitHub release instead of committing it to my capstone repo?,llm-zoomcamp,e22f6fa5dc
+What should I do if my capstone knowledge base file is over the repo size limit? Reviewers still need to see it.,llm-zoomcamp,e22f6fa5dc
+"Do I have to include the knowledge base file in my repository for the capstone review, or can I send it another way?",llm-zoomcamp,e22f6fa5dc
+Our dataset is copyrighted so we can't make it public. Is it still okay to use it for the capstone?,llm-zoomcamp,63bc46be32
+"If I can't share my data with the reviewers, will I lose points for reproducibility?",llm-zoomcamp,63bc46be32
+What's the best way to handle a private dataset in the capstone project if I can't publish it?,llm-zoomcamp,63bc46be32
+Can I make fake documents that look like my real data and publish those for the capstone instead?,llm-zoomcamp,63bc46be32
+Will I still be able to pass the capstone project if I lose the reproducibility points because my data is private?,llm-zoomcamp,63bc46be32
+"Do I really have to cover every evaluation criterion for the capstone project, like Terraform or monitoring, or can I skip some?",llm-zoomcamp,bbe5b5dcef
+"Are all the evaluation criteria for the capstone project mandatory, or can I pick which ones to do?",llm-zoomcamp,bbe5b5dcef
+"If I skip things like Terraform or monitoring in my capstone project, will I still be able to pass?",llm-zoomcamp,bbe5b5dcef
+"Is it okay to not implement every capstone evaluation criterion, for example Terraform or monitoring, as long as I reach the passing score?",llm-zoomcamp,bbe5b5dcef
+"How do I decide which capstone evaluation criteria to cover, and are criteria such as Terraform or monitoring required?",llm-zoomcamp,bbe5b5dcef
+What does the vote button on the project pages actually do in the LLM Zoomcamp capstone?,llm-zoomcamp,65ed985490
+Does clicking vote on a capstone project affect my score or the peer reviews somehow?,llm-zoomcamp,65ed985490
+"Is the vote button on the project pages only a like button, or does it count for something?",llm-zoomcamp,65ed985490
+"If I vote for a project in the capstone section, will that change how peer reviews work?",llm-zoomcamp,65ed985490
+"Can I vote for capstone projects I like, and does that have any impact on grading?",llm-zoomcamp,65ed985490
+Can I use the workshop materials from the dlt section for my own projects if I want to?,llm-zoomcamp,d850a0e7ea
+"Is it allowed to share the open-source dlt workshop content with other people, or is it only for my own use?",llm-zoomcamp,d850a0e7ea
+"Since dlt is open-source, can I use what I learn in this workshop for my capstone project?",llm-zoomcamp,d850a0e7ea
+"Could I use dlt for other Zoomcamp projects, like the MLOps Zoomcamp project, or is it only meant for LLM Zoomcamp?",llm-zoomcamp,d850a0e7ea
+"If I get stuck while using the workshop content in my own project, is it okay to ask questions about it?",llm-zoomcamp,d850a0e7ea
+How do I set up a new dlt project when I want to load data from a cloud storage source?,llm-zoomcamp,6bceeebf04
+What command should I run on the command line to initialize a dlt project with the filesystem source and duckdb?,llm-zoomcamp,6bceeebf04
+Where can I find more directions for setting up a dlt filesystem project for loading cloud data?,llm-zoomcamp,6bceeebf04
+Is there a quick way to start a new dlt project for loading files from the cloud into duckdb?,llm-zoomcamp,6bceeebf04
+Which dlt init command do I use if I want to load cloud files into a duckdb database for the workshop?,llm-zoomcamp,6bceeebf04
+"I'm getting a FileNotFoundError saying table notion_pages___homework does not exist when I run db.open_table(""notion_pages___homework"") in the dlt workshop, what's going on?",llm-zoomcamp,0407213397
+Why does opening the table fail with 'Table notion_pages___homework does not exist. Please first call db.create_table' even though I ran the pipeline?,llm-zoomcamp,0407213397
+"In the open-source data ingestion dlt workshop, what table name should I use with db.open_table, since my open_table call throws a FileNotFoundError?",llm-zoomcamp,0407213397
+"I copied the workshop code but db.open_table(""notion_pages___homework"") gives a FileNotFoundError. Do I need to change something in my pipeline settings like employee_handbook to homework?",llm-zoomcamp,0407213397
+"How do I fix the FileNotFoundError when opening the notion pages homework table in the LLM zoomcamp dlt workshop, given that the pipeline already ran?",llm-zoomcamp,0407213397
+"Hey, I'm following the dlt workshop and I'm stuck. Is there a way to list all the tables that exist in my database after loading the data?",llm-zoomcamp,e394e6f738
+How can I check which tables got created in the db when I run the dlt pipeline? I'm not sure where they ended up.,llm-zoomcamp,e394e6f738
+Quick question for the open-source data ingestion workshop: what's the easiest way to see the names of all tables in the database?,llm-zoomcamp,e394e6f738
+I loaded data with dlt and want to confirm what's actually in the db. Which method gives me a list of all the table names?,llm-zoomcamp,e394e6f738
+Is there a built-in function in dlt to show every table in the database? I want to verify my ingestion worked before moving on.,llm-zoomcamp,e394e6f738
+"Hey, I was going through the dlt workshop and wondering if dlt has any ready-made connectors for ClickHouse or StarRocks? I want to load data into one of those.",llm-zoomcamp,cd19f122f3
+"Does dlt support ClickHouse or StarRocks as a destination, or do I need to build a connector myself?",llm-zoomcamp,cd19f122f3
+I'm planning to use dlt for my project and my team uses ClickHouse. Is there a ClickHouse connector in dlt yet?,llm-zoomcamp,cd19f122f3
+"Quick question about the open-source data ingestion workshop: are there connectors for StarRocks or ClickHouse in dlt, or would we have to write them ourselves?",llm-zoomcamp,cd19f122f3
+"Can I use dlt to ingest data into ClickHouse or StarRocks, or are those databases not supported at the moment?",llm-zoomcamp,cd19f122f3
+"Why do I get a 401 Client Error: Unauthorized when running the notebook in the dlt workshop, pointing to api.notion.com/v1/search?",llm-zoomcamp,0dfba07ace
+"My notebook says it doesn't have secret access and then throws a 401 Unauthorized error from the Notion API, what should I check to fix this?",llm-zoomcamp,0dfba07ace
+"What does the 401 Client Error for api.notion.com mean in the open-source data ingestion workshop, and how do I resolve it?",llm-zoomcamp,0dfba07ace
+"I keep getting an Unauthorized error from the Notion search endpoint in the dlt workshop notebook, is my API key wrong or is something else causing it?",llm-zoomcamp,0dfba07ace
+How do I fix the Notion API authorization problem in the LLM zoomcamp dlt workshop notebook when the secret access isn't working?,llm-zoomcamp,0dfba07ace
+"Why does my pip install only give me requests v2.28 when lancedb needs v2.32 for the llm-zoomcamp workshop, and how do I get the correct version?",llm-zoomcamp,4b30b918bc
+I'm stuck in the dlt open-source data ingestion workshop because requests keeps installing as 2.28 instead of 2.32 which lancedb requires. What command can I use to install the right version?,llm-zoomcamp,4b30b918bc
+Is there a way to force pip to install requests 2.32.3 from GitHub instead of the old 2.28 version that gets pulled in by default?,llm-zoomcamp,4b30b918bc
+"I'm getting a 401 Client Error in the llm-zoomcamp dlt workshop. Does that mean my key is wrong, or do I need to grant access to something first?",llm-zoomcamp,4b30b918bc
+"What's the exact pip command to install requests v2.32.3 directly from the source archive, since the normal install keeps giving me v2.28 for lancedb?",llm-zoomcamp,4b30b918bc
+Why does my EU region Logfire token keep returning 401 Unauthorized even though I copied it correctly?,llm-zoomcamp,46efd1088d
+"My Logfire EU token gives a 401 error in the dlt workshop, what should I check first?",llm-zoomcamp,46efd1088d
+Do I need to set LOGFIRE_BASE_URL manually if I'm using an EU token with logfire.configure()?,llm-zoomcamp,46efd1088d
+Why does my Logfire setup still use the old token even after I updated the .env file?,llm-zoomcamp,46efd1088d
+"What's the difference between LOGFIRE_TOKEN and LOGFIRE_READ_TOKEN, and which one should I use for sending traces?",llm-zoomcamp,46efd1088d
+"Can I load JSONL log files from multiple directories into the same dlt pipeline, or do I need a separate pipeline for each directory?",llm-zoomcamp,671f72f4c4
+"How do I set up a dlt pipeline that reads JSONL files from two different folders, like Claude and Codex logs, and loads them together?",llm-zoomcamp,671f72f4c4
+"If I have several directories full of JSONL files with the same structure, can I pass multiple filesystem resources to one pipeline.run call?",llm-zoomcamp,671f72f4c4
+"When I combine multiple filesystem resources in dlt, how do I make sure all the records end up in the same table instead of separate ones?",llm-zoomcamp,671f72f4c4
+"Do I need to use a special transformer like raw_reader() if my JSONL logs come from different agent tools with different structures, or can I just use read_jsonl()?",llm-zoomcamp,671f72f4c4
+"Why does dlt.attach() in the deployment lesson point to the wrong dataset name, and how do I fix it so the dashboard works with my REST API pipeline?",llm-zoomcamp,c306f20bf3
+"In the lesson 06 dashboard deploy snippet, dlt.attach uses dataset_name=""agent_logs"" but my REST API pipeline isn't showing any data, what dataset_name should I actually be using?",llm-zoomcamp,c306f20bf3
+Where do I find the correct dataset_name for my dlt pipeline so that dlt.attach() in the dashboard connects to the right data?,llm-zoomcamp,c306f20bf3
+"Is the agent_logs dataset_name in the deployment snippet a copy-paste mistake from the filesystem pipeline lesson, and what should I change it to for the REST API pipeline?",llm-zoomcamp,c306f20bf3
+"If I run dlt.attach(""agent_traces"", destination=""playground"", dataset_name=...) for the REST API pipeline, what value do I put in dataset_name so the DuckDB catalog resolves correctly?",llm-zoomcamp,c306f20bf3
+I'm doing the dlt workshop in llm-zoomcamp and want to use Gemini instead of OpenAI for the agent. What exactly do I need to change in homework/agent.py?,llm-zoomcamp,dd53e420ef
+"Hey, how do I switch the model in agent.py from OpenAI to Gemini for the dlt workshop homework? Do I need to change the tools or instructions too?",llm-zoomcamp,dd53e420ef
+"For the llm-zoomcamp dlt workshop, what should the Agent model string look like if I want to use a Google Gemini model instead of the openai provider?",llm-zoomcamp,dd53e420ef
+"I don't have an OpenAI key but I have a Gemini API key. Which environment variable do I need to set in .env, and what else in agent.py has to change to make the dlt workshop agent work?",llm-zoomcamp,dd53e420ef
+"Is it enough to just swap the PydanticAI model string to google:gemini-... in agent.py for the dlt workshop, or do SearchDeps, the instructions and the @faq_agent.tool function also need changes?",llm-zoomcamp,dd53e420ef
+Why does my dlt workshop pipeline load fewer Logfire spans or tokens than I expect? Is something wrong with my agent code?,llm-zoomcamp,8ede00dc4c
+My dlt ingestion keeps returning a lower token total than I get from the agent run. What could cause the Logfire trace to be incomplete?,llm-zoomcamp,8ede00dc4c
+Should I call logfire.force_flush before running the dlt pipeline after my agent finishes? How do I do that so no spans are missing?,llm-zoomcamp,8ede00dc4c
+"The number of spans my dlt pipeline loads changes every time I run it. Should I hard-code an expected span count for the workshop, or is there a better way to get the full trace?",llm-zoomcamp,8ede00dc4c
+"For Question 3 in the dlt workshop, how do I check that my summed gen_ai.usage.input_tokens matches gen_ai.aggregated_usage.input_tokens, and what if they still don't match after flushing?",llm-zoomcamp,8ede00dc4c
+"How do I fix the DuckDB ""Ambiguous reference to catalog or schema"" error when running a dlt pipeline?",llm-zoomcamp,8ca99429d0
+"Why do I get an ambiguous reference to catalog or schema error in DuckDB with dlt, and what causes it?",llm-zoomcamp,8ca99429d0
+"My dlt pipeline with destination duckdb fails with an ambiguous catalog or schema error, what should I change in the pipeline_name or dataset_name?",llm-zoomcamp,8ca99429d0
+Is there a way to set an explicit DuckDB file for a dlt pipeline so I avoid the ambiguous reference error?,llm-zoomcamp,8ca99429d0
+"If I already loaded data into a DuckDB file with dlt, how do I point the destination at that existing file instead of creating a new empty database?",llm-zoomcamp,8ca99429d0
+Where can I find the materials for the current dlt workshop in llm-zoomcamp? I want to check the instructions before the session.,llm-zoomcamp,e00ceb24be
+"Is there a video for the dlt workshop in the llm-zoomcamp course, and where do I find the link?",llm-zoomcamp,e00ceb24be
+Where are the workshop instructions and video for the open-source data ingestion dlt workshop in the 2026 cohort?,llm-zoomcamp,e00ceb24be
+"I'm looking for the dlt workshop files for llm-zoomcamp, can someone point me to the right directory on GitHub?",llm-zoomcamp,e00ceb24be
+Where do I get the workshop materials and the video link for the dlt data ingestion session in LLM Zoomcamp?,llm-zoomcamp,e00ceb24be
+How do I switch from OpenAI to Groq in the dlt workshop? Do I need to change a lot of code?,llm-zoomcamp,54b98d3581
+Where exactly in the dlt workshop do I change the model so it uses Groq instead of OpenAI?,llm-zoomcamp,54b98d3581
+Do I still need an OpenAI API key if I want to use Groq for the dlt workshop homework?,llm-zoomcamp,54b98d3581
+What environment variable do I need to set in .env to use Groq with the dlt workshop agent?,llm-zoomcamp,54b98d3581
+Which Groq model should I use for the dlt workshop agent? I saw llama-3.3-70b-versatile in some older examples but it isn't working anymore.,llm-zoomcamp,54b98d3581
