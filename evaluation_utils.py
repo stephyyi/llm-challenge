@@ -2,7 +2,7 @@ import time
 
 import anthropic
 from tqdm.auto import tqdm
-from rag_helper import RAGBase
+from agentic_rag.rag_helper import RAGBase
 
 
 DEFAULT_MODEL = "claude-haiku-5-5"
